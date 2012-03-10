@@ -1,0 +1,1253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DukaPress Shopping Cart 2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/dukapress\n"
+"POT-Creation-Date: 2011-03-03 17:45:47+00:00\n"
+"PO-Revision-Date: 2011-06-30 21:15+0100\n"
+"Last-Translator: Ivica Delic <ivica.delic@gmail.com>\n"
+"Language-Team: Nivica.net <ivica.delic@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Language: Croatian\n"
+"X-Poedit-Country: CROATIA\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ default
+#: dukapress.php:33
+msgid "DukaPress Transactions"
+msgstr "Transakcije"
+
+#@ default
+#: dukapress.php:65
+#, php-format
+msgid "Total %d orders sold with total amount of %s %d"
+msgstr "Uk. %d narudžbi prodano u ukupnom iznosu od %s %d"
+
+#@ default
+#: dukapress.php:101
+#: dukapress.php:312
+#: php/dp-cart.php:1276
+#: php/dp-products.php:324
+#: php/dp-products.php:697
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#@ default
+#: dukapress.php:102
+#: dukapress.php:313
+#: php/dp-cart.php:1277
+#: php/dp-products.php:325
+#: php/dp-products.php:698
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#@ default
+#: dukapress.php:114
+#: dukapress.php:139
+#: dukapress.php:181
+#: dukapress.php:325
+#: dukapress.php:404
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Prikazuje %s&#8211;%s od %s"
+
+#@ dp-lang
+#: dukapress.php:294
+msgid "DukaPress Shop Order Log"
+msgstr "Log narudžbe web trgovine"
+
+#@ default
+#: dukapress.php:356
+#: dukapress.php:384
+#: dukapress.php:514
+#: dukapress.php:516
+#, php-format
+msgid "%d"
+msgstr "%d"
+
+#@ default
+#: dukapress.php:362
+#, php-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#@ default
+#: dukapress.php:363
+#: dukapress.php:387
+#: dukapress.php:494
+#: dukapress.php:495
+#: dukapress.php:515
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#@ dp-lang
+#: dukapress.php:432
+msgid "No records found !"
+msgstr "Podaci nisu pronađeni!"
+
+#@ default
+#: dukapress.php:492
+msgid "Transaction Details for Invoice No. "
+msgstr "Detalji transakcije za račun br."
+
+#@ dp-lang
+#: dukapress.php:547
+msgid "Sub-Total:"
+msgstr "Podzbroj:"
+
+#@ dp-lang
+#: dukapress.php:550
+#: php/dp-cart.php:346
+msgid "Shipping:"
+msgstr "Dostava:"
+
+#@ dp-lang
+#: dukapress.php:553
+#: php/dp-cart.php:310
+msgid "Discount:"
+msgstr "Popust:"
+
+#@ dp-lang
+#: dukapress.php:556
+msgid "Tax:"
+msgstr "Porez:"
+
+#@ dp-lang
+#: dukapress.php:559
+#: php/dp-cart.php:348
+#: php/dp-widgets.php:209
+msgid "Total:"
+msgstr "Ukupno:"
+
+#@ dp-lang
+#: dukapress.php:565
+msgid "Click here to download your Invoice."
+msgstr "Kliknite ovdje za download Vaše fakture."
+
+#@ dp-lang
+#: dukapress.php:569
+msgid "Send Payment Notification."
+msgstr "Poslati potvrdu uplate."
+
+#@ dp-lang
+#: dukapress.php:736
+msgid "Settings Saved"
+msgstr "Postavke su spremljene"
+
+#@ dp-lang
+#: dukapress.php:755
+msgid "Basic Shop Settings"
+msgstr "Osnovne postavke web trgovine"
+
+#@ dp-lang
+#: dukapress.php:760
+msgid "Name of Shop"
+msgstr "Naziv trgovine"
+
+#@ dp-lang
+#: dukapress.php:766
+#: php/dp-cart.php:1024
+#: php/dp-cart.php:1053
+msgid "Address"
+msgstr "Adresa"
+
+#@ dp-lang
+#: dukapress.php:772
+msgid "State / Province"
+msgstr "Država / Provincija"
+
+#@ dp-lang
+#: dukapress.php:778
+#: php/dp-cart.php:1030
+#: php/dp-cart.php:1059
+msgid "Postal Code"
+msgstr "Poštanski broj"
+
+#@ dp-lang
+#: dukapress.php:784
+msgid "City / Town"
+msgstr "Grad / Mjesto"
+
+#@ dp-lang
+#: dukapress.php:790
+msgid "Shop Mode"
+msgstr "Način kupnje"
+
+#@ dp-lang
+#: dukapress.php:799
+msgid "Country of your shop"
+msgstr "Država u kojoj je vaša trgovina"
+
+#@ dp-lang
+#: dukapress.php:815
+msgid "Currency"
+msgstr "Valuta"
+
+#@ dp-lang
+#: dukapress.php:837
+msgid "Enable User Registration:"
+msgstr "Omogući registraciju korisnika:"
+
+#@ dp-lang
+#: dukapress.php:843
+msgid "Enable Invoice PDF Generation:"
+msgstr "Omogući PDF kreiranje računa:"
+
+#@ dp-lang
+#: dukapress.php:849
+msgid "Product Page Image Effect"
+msgstr "Slikovni efekt na stranici proizvoda"
+
+#@ dp-lang
+#: dukapress.php:861
+msgid "Main Product Image Size"
+msgstr "Veličina slike glavnog proizvoda"
+
+#@ dp-lang
+#: dukapress.php:874
+msgid "Product Thumbnail Size"
+msgstr "Thumbnail veličina slike proizvoda"
+
+#@ dp-lang
+#: dukapress.php:887
+msgid "Grid Product Thumbnail Size"
+msgstr "Thumbnail veličina slike proizvoda u mreži"
+
+#@ dp-lang
+#: dukapress.php:900
+msgid "Currency Symbol"
+msgstr "Simbol valute"
+
+#@ dp-lang
+#: dukapress.php:906
+msgid "Checkout Page URL"
+msgstr "Link stranice potvrde narudžbe"
+
+#@ dp-lang
+#: dukapress.php:912
+msgid "Thank You Page URL"
+msgstr "Link stranice zahvale"
+
+#@ dp-lang
+#: dukapress.php:918
+msgid "Tax"
+msgstr "Porez"
+
+#@ dp-lang
+#: dukapress.php:924
+#: dukapress.php:1064
+msgid "Payment Options"
+msgstr "Opcije plaćanja"
+
+#@ dp-lang
+#: dukapress.php:940
+msgid "Product Management"
+msgstr "Upravljanje proizvodima"
+
+#@ dp-lang
+#: dukapress.php:943
+msgid "Inventory Settings"
+msgstr "Postavke inventara"
+
+#@ dp-lang
+#: dukapress.php:948
+msgid "Active"
+msgstr "Aktivan"
+
+#@ dp-lang
+#: dukapress.php:951
+#: dukapress.php:960
+#: dukapress.php:969
+#: dukapress.php:978
+msgid "No"
+msgstr "Ne"
+
+#@ dp-lang
+#: dukapress.php:952
+#: dukapress.php:961
+#: dukapress.php:970
+#: dukapress.php:979
+msgid "Yes"
+msgstr "Da"
+
+#@ dp-lang
+#: dukapress.php:957
+msgid "Display Stocks Amounts"
+msgstr "Prikaz stanja zaliha"
+
+#@ dp-lang
+#: dukapress.php:966
+msgid "Sold Out Notice"
+msgstr "Obavijest rasprodano"
+
+#@ dp-lang
+#: dukapress.php:975
+msgid "Warning Threshold"
+msgstr "Upozorenje prelaza ograničenja"
+
+#@ dp-lang
+#: dukapress.php:984
+msgid "Inventory warning email"
+msgstr "E-mail upozorenje stanja zaliha"
+
+#@ dp-lang
+#: dukapress.php:992
+msgid "Shipping Options"
+msgstr "Mogućnosti dostave"
+
+#@ dp-lang
+#: dukapress.php:997
+msgid "Shipping calculation method"
+msgstr "Izračuna troškova dostave"
+
+#@ dp-lang
+#: dukapress.php:1000
+msgid "Free"
+msgstr "Besplatno"
+
+#@ dp-lang
+#: dukapress.php:1001
+msgid "Flat"
+msgstr "Postotak"
+
+#@ dp-lang
+#: dukapress.php:1002
+msgid "Flat Limit"
+msgstr "Ograničenje"
+
+#@ dp-lang
+#: dukapress.php:1003
+msgid "Weight Flat"
+msgstr "Ograničenje težine"
+
+#@ dp-lang
+#: dukapress.php:1004
+msgid "Weight Class"
+msgstr "Vrsta težine"
+
+#@ dp-lang
+#: dukapress.php:1005
+msgid "Per Item"
+msgstr "Po proizvodu"
+
+#@ dp-lang
+#: dukapress.php:1011
+msgid "Flat Rate"
+msgstr "Bez ograničenja"
+
+#@ dp-lang
+#: dukapress.php:1018
+msgid "Flat Limit Rate"
+msgstr "Bez ograničenja u prometu"
+
+#@ dp-lang
+#: dukapress.php:1025
+msgid "Weight Flat Rate"
+msgstr "Bez ograničenja u težini"
+
+#@ dp-lang
+#: dukapress.php:1032
+msgid "Weight Class Rate"
+msgstr "Skupna tarifa težine"
+
+#@ dp-lang
+#: dukapress.php:1039
+msgid "Per Item Rate"
+msgstr "Ograničenje po proizvodu"
+
+#@ dp-lang
+#: dukapress.php:1049
+msgid "Digital Products"
+msgstr "Digitalni proizvodi"
+
+#@ dp-lang
+#: dukapress.php:1054
+msgid "Download Links Duration:"
+msgstr "Linkovi trajanja preuzimanja datoteka:"
+
+#@ dp-lang
+#: dukapress.php:1067
+#: php/dp-cart.php:481
+#: php/dp-cart.php:539
+msgid "PayPal"
+msgstr "PayPal"
+
+#@ dp-lang
+#: dukapress.php:1072
+msgid "Use PayPal Sandbox:"
+msgstr "Koristite PayPal Sandbox:"
+
+#@ dp-lang
+#: dukapress.php:1078
+msgid "PayPal ID"
+msgstr "PayPal ID"
+
+#@ default
+#@ dp-lang
+#: dukapress.php:1120
+#: php/dp-cart.php:487
+#: php/dp-cart.php:543
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#@ dp-lang
+#: dukapress.php:1125
+msgid "API Login"
+msgstr "API login"
+
+#@ dp-lang
+#: dukapress.php:1131
+msgid "Transaction Key"
+msgstr "Šifra transakcije"
+
+#@ dp-lang
+#: dukapress.php:1137
+msgid "URL"
+msgstr "Link"
+
+#@ dp-lang
+#: dukapress.php:1146
+msgid "Test-Request"
+msgstr "Test-zahtjev"
+
+#@ dp-lang
+#: dukapress.php:1157
+#: php/dp-cart.php:493
+#: php/dp-cart.php:547
+msgid "WorldPay"
+msgstr "WorldPay"
+
+#@ dp-lang
+#: dukapress.php:1162
+msgid "Installation-ID"
+msgstr "ID za instalaciju"
+
+#@ dp-lang
+#: dukapress.php:1168
+msgid "Testmode"
+msgstr "Testni način rada"
+
+#@ dp-lang
+#: dukapress.php:1187
+msgid "Your Shops' Currency Code is not compatible with WorldPay. Please choose a Currency Code from the below list. Payments will be converted to the selected Currency Code, when Payments are sent to WorldPay."
+msgstr "Valuta Vaše trgovine nije kompatibilna s WorldPay-om. Molimo da odaberete valutu iz donje liste. Uplate će se pretvoriti u odabranu valutu, kada se iste pošalju u WorldPay."
+
+#@ dp-lang
+#: dukapress.php:1188
+msgid "WorldPay Currency Code"
+msgstr "WorldPay valuta"
+
+#@ default
+#@ dp-lang
+#: dukapress.php:1211
+#: php/dp-cart.php:499
+#: php/dp-cart.php:551
+msgid "AlertPay"
+msgstr "AlertPay"
+
+#@ dp-lang
+#: dukapress.php:1216
+msgid "AlertPay ID"
+msgstr "AlertPay ID"
+
+#@ dp-lang
+#: dukapress.php:1232
+msgid "Your Shops' Currency Code is not compatible with AlertPay. Please choose a Currency Code from the below list. Payments will be converted to the selected Currency Code, when Payments are sent to AlertPay."
+msgstr "Valuta Vaše trgovine nije kompatibilna s AlertPay-om. Molimo da odaberete valutu iz donje liste. Uplate će se pretvoriti u odabranu valutu, kada se iste pošalju AlertPay-u."
+
+#@ dp-lang
+#: dukapress.php:1233
+msgid "AlertPay Currency Code"
+msgstr "AlertPay valute"
+
+#@ dp-lang
+#: dukapress.php:1256
+msgid "Mobile"
+msgstr "Mobitel"
+
+#@ dp-lang
+#: dukapress.php:1262
+msgid "Name"
+msgstr "Ime"
+
+#@ dp-lang
+#: dukapress.php:1262
+msgid "Number"
+msgstr "Broj"
+
+#@ dp-lang
+#: dukapress.php:1301
+msgid "Bank Details"
+msgstr "Bankovni podaci"
+
+#@ dp-lang
+#: dukapress.php:1306
+msgid "Name of Bank"
+msgstr "Naziv banke"
+
+#@ dp-lang
+#: dukapress.php:1312
+msgid "Routing Number"
+msgstr "Broj odobrenja"
+
+#@ dp-lang
+#: dukapress.php:1318
+msgid "Account Number"
+msgstr "Broj računa"
+
+#@ dp-lang
+#: dukapress.php:1324
+msgid "Bank Account Owner"
+msgstr "Vlasnik bankovnog računa"
+
+#@ dp-lang
+#: dukapress.php:1330
+msgid "IBAN"
+msgstr "IBAN"
+
+#@ dp-lang
+#: dukapress.php:1336
+#: dukapress.php:1342
+msgid "BIC/SWIFT"
+msgstr "BIC / SWIFT"
+
+#@ dp-lang
+#: dukapress.php:1353
+msgid "Discount Management"
+msgstr "Upravljanje popustima"
+
+#@ dp-lang
+#: dukapress.php:1358
+msgid "Enable Discount"
+msgstr "Omogući popust"
+
+#@ dp-lang
+#: dukapress.php:1367
+#: php/dp-cart.php:408
+msgid "Enter Discount Code"
+msgstr "Unesite  kod popusta"
+
+#@ dp-lang
+#: dukapress.php:1373
+msgid "Discount"
+msgstr "Popust"
+
+#@ dp-lang
+#: dukapress.php:1379
+msgid "One Time Discount"
+msgstr "Jednokratni popust"
+
+#@ default
+#: dukapress.php:2018
+msgid "DukaPress News"
+msgstr "DukaPress novosti"
+
+#@ dp-lang
+#: php/dp-cart.php:238
+#: php/dp-payment.php:1
+msgid "There are no products in your cart."
+msgstr "Nema proizvoda u vašoj košarici."
+
+#@ dp-lang
+#: php/dp-cart.php:347
+#: php/dp-products.php:22
+#: php/dp-products.php:26
+#: php/dp-products.php:411
+msgid "Price:"
+msgstr "Cijena:"
+
+#@ default
+#: php/dp-products.php:48
+msgid "Select"
+msgstr "Odaberi"
+
+#@ dp-lang
+#: php/dp-products.php:158
+msgid "Currently in Stock"
+msgstr "Trenutno na skladištu"
+
+#@ dp-lang
+#: php/dp-products.php:161
+msgid "Out of Stock"
+msgstr "Rasprodano"
+
+#@ dp-lang
+#: php/dp-products.php:167
+msgid "Add to Cart"
+msgstr "Dodaj u košaricu"
+
+#@ dp-lang
+#: php/dp-products.php:169
+msgid "Inquire"
+msgstr "Upit"
+
+#@ dp-lang
+#: php/dp-products.php:412
+msgid "New Price:"
+msgstr "Nova cijena:"
+
+#@ dp-lang
+#: php/dp-products.php:413
+msgid "Currently In Stock:"
+msgstr "Trenutno na skladištu:"
+
+#@ dp-lang
+#: php/dp-products.php:414
+msgid "Item Weight:"
+msgstr "Težina proizvoda:"
+
+#@ dp-lang
+#: php/dp-products.php:415
+msgid "Digital File:"
+msgstr "Digitalni dokument:"
+
+#@ dp-lang
+#: php/dp-products.php:418
+msgid "Dropdown Options"
+msgstr "Padajući izbornik"
+
+#@ dp-lang
+#: php/dp-products.php:425
+msgid "Option Name"
+msgstr "Ime izbora"
+
+#@ dp-lang
+#: php/dp-products.php:429
+msgid "Variation Name"
+msgstr "Varijacija naziva"
+
+#@ dp-lang
+#: php/dp-products.php:433
+msgid "Variation Price"
+msgstr "Varijacija cijene"
+
+#@ dp-lang
+#: php/dp-products.php:648
+#: php/dp-widgets.php:225
+msgid "Products"
+msgstr "Proizvodi"
+
+#@ dp-lang
+#: php/dp-cart.php:270
+#: php/dp-products.php:649
+#: php/dp-widgets.php:189
+msgid "Product"
+msgstr "Proizvod"
+
+#@ dp-lang
+#: php/dp-products.php:650
+#: php/dp-products.php:651
+msgid "Add New Product"
+msgstr "Dodaj novi proizvod"
+
+#@ dp-lang
+#: php/dp-products.php:652
+msgid "Edit"
+msgstr "Uredi"
+
+#@ dp-lang
+#: php/dp-products.php:653
+msgid "Edit Product"
+msgstr "Uredi proizvod"
+
+#@ dp-lang
+#: php/dp-products.php:654
+msgid "New Product"
+msgstr "Novi proizvod"
+
+#@ dp-lang
+#: php/dp-products.php:655
+#: php/dp-products.php:656
+msgid "View Product"
+msgstr "Vidi proizvod"
+
+#@ dp-lang
+#: php/dp-products.php:657
+msgid "Search Products"
+msgstr "Traži proizvode"
+
+#@ dp-lang
+#: php/dp-products.php:658
+msgid "No products found"
+msgstr "Proizvodi nisu pronađeni"
+
+#@ dp-lang
+#: php/dp-products.php:659
+msgid "No products found in Trash"
+msgstr "Proizvodi nisu pronađeni u smeću"
+
+#@ dp-lang
+#: php/dp-products.php:661
+msgid "Products for use with DukaPress"
+msgstr "Proizvodi za korištenje s DukaPress-om"
+
+#@ dp-lang
+#: php/dp-cart.php:220
+msgid "Please review your order"
+msgstr "Molimo pregledajte vašu narudžbu"
+
+#@ dp-lang
+#: php/dp-cart.php:264
+#: php/dp-widgets.php:180
+msgid "Price"
+msgstr "Cijena"
+
+#@ dp-lang
+#: php/dp-cart.php:270
+#: php/dp-cart.php:1130
+msgid "Quantity"
+msgstr "Količina"
+
+#@ dp-lang
+#: php/dp-cart.php:392
+msgid "Your Name:"
+msgstr "Vaše ime:"
+
+#@ dp-lang
+#: php/dp-cart.php:393
+msgid "Your Email:"
+msgstr "Vaš e-mail:"
+
+#@ dp-lang
+#: php/dp-cart.php:394
+msgid "Subject:"
+msgstr "Tema:"
+
+#@ dp-lang
+#: php/dp-cart.php:395
+msgid "Message:"
+msgstr "Poruka:"
+
+#@ dp-lang
+#: php/dp-cart.php:410
+msgid "Discount Code"
+msgstr "Kod popusta"
+
+#@ dp-lang
+#: php/dp-cart.php:411
+msgid "Check"
+msgstr "Provjeri"
+
+#@ dp-lang
+#: php/dp-cart.php:505
+#: php/dp-cart.php:555
+msgid "Bank transfer in advance"
+msgstr "Bankovni prijenos unaprijed"
+
+#@ dp-lang
+#: php/dp-cart.php:511
+#: php/dp-cart.php:559
+msgid "Cash at store"
+msgstr "Novac u trgovini"
+
+#@ dp-lang
+#: php/dp-cart.php:517
+#: php/dp-cart.php:567
+msgid "Cash on delivery"
+msgstr "Platiti pri preuzimanju"
+
+#@ dp-lang
+#: php/dp-cart.php:523
+#: php/dp-cart.php:563
+msgid "Pay by Mobile Phone"
+msgstr "Plaćanje putem mobitela"
+
+#@ dp-lang
+#: php/dp-cart.php:535
+msgid "Make payment using "
+msgstr "Napravite plaćanje putem"
+
+#@ default
+#: php/dp-cart.php:582
+msgid "Make Payment"
+msgstr "Izvršiti plaćanje"
+
+#@ default
+#: php/dp-cart.php:807
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "Novi korisnik registriran na vašoj web stranici %s:"
+
+#@ default
+#: php/dp-cart.php:808
+#: php/dp-cart.php:816
+#, php-format
+msgid "Username: %s"
+msgstr "Korisničko ime: %s"
+
+#@ default
+#: php/dp-cart.php:809
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#@ default
+#: php/dp-cart.php:811
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Registracija novog korisnika"
+
+#@ default
+#: php/dp-cart.php:817
+#, php-format
+msgid "Password: %s"
+msgstr "Lozinka: %s"
+
+#@ default
+#: php/dp-cart.php:826
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[%s] Vaše korisničko ime i lozinka"
+
+#@ dp-lang
+#: php/dp-cart.php:1019
+msgid "Billing Address"
+msgstr "Adresa za naplatu"
+
+#@ dp-lang
+#: php/dp-cart.php:1020
+#: php/dp-cart.php:1049
+msgid "First Name"
+msgstr "Ime"
+
+#@ dp-lang
+#: php/dp-cart.php:1021
+#: php/dp-cart.php:1050
+msgid "Please enter the First Name"
+msgstr "Molimo unesite vaše ime"
+
+#@ dp-lang
+#: php/dp-cart.php:1022
+#: php/dp-cart.php:1051
+msgid "Last Name"
+msgstr "Prezime"
+
+#@ dp-lang
+#: php/dp-cart.php:1023
+#: php/dp-cart.php:1052
+msgid "Please enter the Last Name"
+msgstr "Molimo unesite vaše prezime"
+
+#@ dp-lang
+#: php/dp-cart.php:1025
+#: php/dp-cart.php:1054
+msgid "Please enter the Address"
+msgstr "Molimo unesite adresu"
+
+#@ dp-lang
+#: php/dp-cart.php:1026
+#: php/dp-cart.php:1055
+msgid "City"
+msgstr "Grad"
+
+#@ dp-lang
+#: php/dp-cart.php:1027
+#: php/dp-cart.php:1056
+msgid "Please enter the City"
+msgstr "Molimo unesite grad"
+
+#@ dp-lang
+#: php/dp-cart.php:1028
+#: php/dp-cart.php:1057
+msgid "Province / State"
+msgstr "Pokrajina / Država"
+
+#@ dp-lang
+#: php/dp-cart.php:1029
+#: php/dp-cart.php:1058
+msgid "Please enter the State"
+msgstr "Molimo unesite državu"
+
+#@ dp-lang
+#: php/dp-cart.php:1031
+#: php/dp-cart.php:1060
+msgid "Please enter the Postal Code"
+msgstr "Molimo unesite poštanski broj"
+
+#@ dp-lang
+#: php/dp-cart.php:1032
+#: php/dp-cart.php:1061
+msgid "Country"
+msgstr "Zemlja"
+
+#@ dp-lang
+#: php/dp-cart.php:1042
+msgid "Email"
+msgstr "E-mail"
+
+#@ dp-lang
+#: php/dp-cart.php:1043
+msgid "Please enter the Email"
+msgstr "Molimo unesite e-mail"
+
+#@ dp-lang
+#: php/dp-cart.php:1044
+msgid "Phone Number"
+msgstr "Broj telefona"
+
+#@ dp-lang
+#: php/dp-cart.php:1045
+msgid "Please enter the Phone"
+msgstr "Molimo unesite telefon"
+
+#@ dp-lang
+#: php/dp-cart.php:1048
+msgid "Shipping Address"
+msgstr "Adresa za dostavu"
+
+#@ default
+#: php/dp-cart.php:1072
+msgid "I have a different Shipping Address."
+msgstr "Imam drugačiju adresu dostave."
+
+#@ dp-lang
+#: php/dp-cart.php:1128
+msgid "Sr No."
+msgstr "Serijski broj"
+
+#@ dp-lang
+#: php/dp-cart.php:1129
+msgid "Product Name"
+msgstr "Naziv proizvoda"
+
+#@ dp-lang
+#: php/dp-cart.php:1146
+msgid "Inquiry Form Submitted"
+msgstr "Obrazac za upit poslan"
+
+#@ dp-lang
+#: php/dp-cart.php:1147
+msgid "Thank you for submitting our Inquiry form."
+msgstr "Hvala što ste poslali obrazac za upit."
+
+#@ dp-lang
+#: php/dp-cart.php:1147
+msgid "We will contact you soon."
+msgstr "Uskoro ćemo vas kontaktirati."
+
+#@ dp-lang
+#: php/dp-cart.php:1151
+msgid "Thank you for your order!"
+msgstr "Zahvaljujemo na vašoj narudžbi!"
+
+#@ dp-lang
+#: php/dp-cart.php:1181
+#: php/dp-cart.php:1186
+msgid "Please keep"
+msgstr "Molimo vas da"
+
+#@ dp-lang
+#: php/dp-cart.php:1181
+msgid "ready for payment upon delivery."
+msgstr "spremno za plaćanje po isporuci."
+
+#@ dp-lang
+#: php/dp-cart.php:1186
+msgid "ready for payment when you come to take your order."
+msgstr "spremno za plaćanje kada dođete po vašu narudžbu."
+
+#@ dp-lang
+#: php/dp-cart.php:1191
+msgid "Please transfer"
+msgstr "Molimo prijenos"
+
+#@ dp-lang
+#: php/dp-cart.php:1191
+msgid "to our Bank Account using the following information:"
+msgstr "na naš bankovni račun koristeći sljedeće podatke:"
+
+#@ dp-lang
+#: php/dp-cart.php:1194
+msgid "Name of Recipent:"
+msgstr "Naziv primatelja:"
+
+#@ dp-lang
+#: php/dp-cart.php:1197
+msgid "for:</td><td>Order No.:"
+msgstr "za: </td><td> br narudžbe:"
+
+#@ dp-lang
+#: php/dp-cart.php:1200
+msgid "Name of Bank:"
+msgstr "Naziv banke:"
+
+#@ dp-lang
+#: php/dp-cart.php:1203
+msgid "Routing Number:"
+msgstr "Broj odobrenja:"
+
+#@ dp-lang
+#: php/dp-cart.php:1206
+msgid "Account Number:"
+msgstr "Broj računa:"
+
+#@ dp-lang
+#: php/dp-cart.php:1209
+msgid "IBAN:"
+msgstr "IBAN:"
+
+#@ dp-lang
+#: php/dp-cart.php:1212
+msgid "BIC/SWIFT:"
+msgstr "BIC / SWIFT:"
+
+#@ default
+#: php/dp-cart.php:1215
+msgid "When we have received your payment in our account, we will begin to Process your Order."
+msgstr "Kad zaprimimo vašu uplatu na našem računu, započet ćemo s obradom vaše narudžbe."
+
+#@ dp-lang
+#: php/dp-cart.php:1219
+msgid "Please send"
+msgstr "Molimo vas pošaljite"
+
+#@ dp-lang
+#: php/dp-cart.php:1219
+msgid "to any of the following numbers:"
+msgstr "na bilo koji od sljedećih brojeva:"
+
+#@ dp-lang
+#: php/dp-cart.php:1232
+msgid "Please also send your invoice number to us by SMS using the phone that you used to send the money. When we have received your payment in any of our accounts, we shall begin to Process your Order."
+msgstr "Molimo pošaljite nam broj vašeg računa preko SMS-a koristeći broj mobitela koji ste koristili za slanje novca. Kad zaprimimo vašu uplatu na bilo kojem od naših računa, započet ćemo s obradom vaše narudžbe."
+
+#@ dp-lang
+#: php/dp-cart.php:1236
+msgid "Thank you for making the payment of"
+msgstr "Hvala za uplatu od"
+
+#@ dp-lang
+#: php/dp-cart.php:1236
+msgid "using"
+msgstr "korištenje"
+
+#@ dp-lang
+#: php/dp-cart.php:1237
+msgid "We will process your order soon."
+msgstr "Obraditi ćemo Vašu narudžbu uskoro."
+
+#@ dp-lang
+#: php/dp-cart.php:1258
+msgid "Order canceled !!"
+msgstr "Narudžba otkazana!"
+
+#@ dp-lang
+#: php/dp-widgets.php:14
+msgid "Displays DukaPress Shopping Cart"
+msgstr "Prikaži košaricu"
+
+#@ dp-lang
+#: php/dp-widgets.php:16
+#: php/dp-widgets.php:39
+msgid "DukaPress Shopping Cart"
+msgstr "Košarica"
+
+#@ dp-lang
+#: php/dp-widgets.php:24
+#: php/dp-widgets.php:68
+#: php/dp-widgets.php:370
+msgid "Title:"
+msgstr "Naslov:"
+
+#@ dp-lang
+#: php/dp-widgets.php:27
+msgid "To change settings"
+msgstr "Za promjenu postavki"
+
+#@ dp-lang
+#: php/dp-widgets.php:27
+#: php/dp-widgets.php:71
+msgid "click here"
+msgstr "kliknite ovdje"
+
+#@ dp-lang
+#: php/dp-widgets.php:58
+msgid "Displays DukaPress Checkout Link"
+msgstr "Prikaži link za potvrdu narudžbe"
+
+#@ dp-lang
+#: php/dp-widgets.php:60
+#: php/dp-widgets.php:83
+msgid "DukaPress Checkout"
+msgstr "Potvrda narudžbe"
+
+#@ dp-lang
+#: php/dp-widgets.php:71
+msgid "To change checkout url"
+msgstr "Promjeniti link za potvrdu narudžbe"
+
+#@ dp-lang
+#: php/dp-widgets.php:104
+msgid "Displays Mini DukaPress Shopping Cart"
+msgstr "Prikazuje mini košaricu"
+
+#@ dp-lang
+#: php/dp-widgets.php:106
+msgid "Mini DukaPress Shopping Cart"
+msgstr "Mini košarica"
+
+#@ dp-lang
+#: php/dp-widgets.php:138
+#: php/dp-widgets.php:172
+msgid "Your cart is empty."
+msgstr "Vaša košarica je prazna."
+
+#@ dp-lang
+#: php/dp-widgets.php:142
+msgid "Go to Checkout"
+msgstr "Idi na potvrdu narudžbe"
+
+#@ dp-lang
+#: php/dp-widgets.php:186
+msgid "You have added"
+msgstr "Vi ste dodali"
+
+#@ dp-lang
+#: php/dp-widgets.php:186
+msgid "to the cart"
+msgstr "u košaricu"
+
+#@ dp-lang
+#: php/dp-widgets.php:190
+msgid "Qty"
+msgstr "Kol"
+
+#@ dp-lang
+#: php/dp-widgets.php:214
+msgid "Empty your cart"
+msgstr "Ispraznite vašu košaricu"
+
+#@ dp-lang
+#: php/dp-widgets.php:240
+msgid "Product Display"
+msgstr "Prikaz proizvoda"
+
+#@ dp-lang
+#: php/dp-widgets.php:242
+msgid "DukaPress Product Display"
+msgstr "Prikaz proizvoda"
+
+#@ dp-lang
+#: php/dp-widgets.php:359
+msgid "Search Widget For DukaPress"
+msgstr "Traži dodatak za DukaPress"
+
+#@ dp-lang
+#: php/dp-widgets.php:361
+msgid "DukaPress Search Widget"
+msgstr "DukaPress dodatak za pretragu"
+
+#@ dp-lang
+#: php/dp-widgets.php:374
+msgid "Select Search Result Page:"
+msgstr "Odaberite stranicu za  rezultate pretraživanja:"
+
+#@ dp-lang
+#: php/dp-cart.php:287
+#: php/dp-cart.php:1137
+msgid "name"
+msgstr "ime"
+
+#@ dp-lang
+#: php/dp-cart.php:1025
+msgid "address"
+msgstr "adresa"
+
+#@ dp-lang
+#: php/dp-cart.php:1027
+msgid "city"
+msgstr "grad"
+
+#@ dp-lang
+#: php/dp-cart.php:1029
+msgid "state"
+msgstr "država"
+
+#@ dp-lang
+#: php/dp-cart.php:1031
+msgid "zip"
+msgstr "zip"
+
+#@ dp-lang
+#: php/dp-cart.php:1045
+msgid "phone"
+msgstr "telefon"
+
+#@ dp-lang
+#: php/dp-cart.php:1050
+msgid "sfirst"
+msgstr "ime"
+
+#@ dp-lang
+#: php/dp-cart.php:1052
+msgid "slast"
+msgstr "prezime"
+
+#@ dp-lang
+#: php/dp-cart.php:1054
+msgid "saddress"
+msgstr "adresa"
+
+#@ dp-lang
+#: php/dp-cart.php:1056
+msgid "scity"
+msgstr "grad"
+
+#@ dp-lang
+#: php/dp-cart.php:1058
+msgid "sstate"
+msgstr "država"
+
+#@ dp-lang
+#: php/dp-cart.php:1060
+msgid "szip"
+msgstr "zip"
+
+#@ dp-lang
+#: php/dp-cart.php:1138
+msgid "quantity"
+msgstr "količina"
+
+#@ default
+#: php/dp-cart.php:1194
+msgid "bank_account_owner"
+msgstr "vlasnik_bankovnog_računa"
+
+#@ default
+#: php/dp-cart.php:1200
+msgid "bank_name"
+msgstr "naziv_banke"
+
+#@ default
+#: php/dp-cart.php:1203
+msgid "bank_routing"
+msgstr "bankovno_odobrenje"
+
+#@ default
+#: php/dp-cart.php:1206
+msgid "bank_account"
+msgstr "računa_banke"
+
+#@ default
+#: php/dp-cart.php:1209
+msgid "bank_IBAN"
+msgstr "IBAN_banke"
+
+#@ default
+#: php/dp-cart.php:1212
+msgid "bank_bic"
+msgstr "bic_banke"
+
+#@ dp-lang
+#: php/dp-widgets.php:39
+#: php/dp-widgets.php:83
+msgid "title"
+msgstr "naslov"
+

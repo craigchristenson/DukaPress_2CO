@@ -1,0 +1,927 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/dukapress\n"
+"POT-Creation-Date: 2011-02-07 10:47:17+00:00\n"
+"PO-Revision-Date: 2011-02-07 13:55+0300\n"
+"Last-Translator: Kelvin Jayanoris <duka@dukapress.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: G:\\Downloads\\dukapress\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dukapress.php:33
+msgid "DukaPress Transactions"
+msgstr "Yaliyotendeka kupitia DukaPress"
+
+#: dukapress.php:65
+msgid "Total %d orders sold with total amount of %s %d"
+msgstr "%d iliuzwa ikijumlika kuwa %s %d"
+
+#: dukapress.php:101
+#: dukapress.php:312
+#: php/dp-cart.php:1237
+#: php/dp-products.php:324
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: dukapress.php:102
+#: dukapress.php:313
+#: php/dp-cart.php:1238
+#: php/dp-products.php:325
+msgid "&raquo;"
+msgstr "&raque;"
+
+#: dukapress.php:114
+#: dukapress.php:139
+#: dukapress.php:181
+#: dukapress.php:325
+#: dukapress.php:404
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Unaona %s&#8211;%s katika %s"
+
+#: dukapress.php:294
+msgid "DukaPress Shop Order Log"
+msgstr "Rekodi ya yaliyouzwa kupitia DukaPress"
+
+#: dukapress.php:356
+#: dukapress.php:384
+#: dukapress.php:514
+#: dukapress.php:516
+msgid "%d"
+msgstr "%d"
+
+#: dukapress.php:362
+msgid "%s %s"
+msgstr "%s %s"
+
+#: dukapress.php:363
+#: dukapress.php:387
+#: dukapress.php:494
+#: dukapress.php:495
+#: dukapress.php:515
+msgid "%s"
+msgstr "%s"
+
+#: dukapress.php:432
+msgid "No records found !"
+msgstr "Rekodi haipatikani!"
+
+#: dukapress.php:492
+msgid "Transaction Details for Invoice No. "
+msgstr "Ankara Nambari"
+
+#: dukapress.php:547
+msgid "Sub-Total:"
+msgstr "Jumla Ndogo:"
+
+#: dukapress.php:550
+#: php/dp-cart.php:338
+msgid "Shipping:"
+msgstr "Kusafirisha:"
+
+#: dukapress.php:553
+#: php/dp-cart.php:302
+msgid "Discount:"
+msgstr "Diskaunti:"
+
+#: dukapress.php:556
+msgid "Tax:"
+msgstr "Ushuru:"
+
+#: dukapress.php:559
+#: php/dp-cart.php:340
+#: php/dp-widgets.php:209
+msgid "Total:"
+msgstr "Jumla:"
+
+#: dukapress.php:565
+msgid "Click here to download your Invoice."
+msgstr "Bonyeza hapa kudownload ankara yako."
+
+#: dukapress.php:569
+msgid "Send Payment Notification."
+msgstr "Tuma ripoti ya kupokea malipo."
+
+#: dukapress.php:736
+msgid "Settings Saved"
+msgstr "Settings zimeseviwa"
+
+#: dukapress.php:755
+msgid "Basic Shop Settings"
+msgstr "Settings za kimsingi"
+
+#: dukapress.php:760
+msgid "Name of Shop"
+msgstr "Jina la duka"
+
+#: dukapress.php:766
+#: php/dp-cart.php:988
+#: php/dp-cart.php:1017
+msgid "Address"
+msgstr "Anwani"
+
+#: dukapress.php:772
+msgid "State / Province"
+msgstr "Jimbo / Mkoa"
+
+#: dukapress.php:778
+#: php/dp-cart.php:994
+#: php/dp-cart.php:1023
+msgid "Postal Code"
+msgstr "Kodi ya Posta"
+
+#: dukapress.php:784
+msgid "City / Town"
+msgstr "Jiji / Mji"
+
+#: dukapress.php:790
+msgid "Shop Mode"
+msgstr "jinsi ya Duka"
+
+#: dukapress.php:799
+msgid "Country of your shop"
+msgstr "Nchi ya Duka"
+
+#: dukapress.php:815
+msgid "Currency"
+msgstr "Sarafu"
+
+#: dukapress.php:837
+msgid "Enable User Registration:"
+msgstr "Wezesha uandikishaji wa watumizi"
+
+#: dukapress.php:843
+#, fuzzy
+msgid "Enable Invoice PDF Generation:"
+msgstr "Wezesha uandikishaji wa watumizi"
+
+#: dukapress.php:849
+msgid "Product Page Image Effect"
+msgstr "'Effect' ya Ukurasa wa Bidhaa"
+
+#: dukapress.php:861
+msgid "Main Product Image Size"
+msgstr "Ukubwa wa Picha Kuu ya Bidhaa"
+
+#: dukapress.php:874
+msgid "Product Thumbnail Size"
+msgstr "Ukubwa wa Picha Ndogo ya bidhaa"
+
+#: dukapress.php:887
+msgid "Grid Product Thumbnail Size"
+msgstr "Ukubwa wa Picha ya \"Grid\""
+
+#: dukapress.php:900
+msgid "Currency Symbol"
+msgstr "Ishara ya Sarafu"
+
+#: dukapress.php:906
+msgid "Checkout Page URL"
+msgstr "URL ya Ukurasa wa kulipia"
+
+#: dukapress.php:912
+msgid "Thank You Page URL"
+msgstr "URL ya Ukurasa wa kutoa shukran"
+
+#: dukapress.php:918
+msgid "Tax"
+msgstr "Ushuru"
+
+#: dukapress.php:924
+#: dukapress.php:1064
+msgid "Payment Options"
+msgstr "Njia za Kulipia"
+
+#: dukapress.php:940
+msgid "Product Management"
+msgstr "Usimamizi wa Bidhaa"
+
+#: dukapress.php:943
+msgid "Inventory Settings"
+msgstr "Settings za hesabu ya bidhaa"
+
+#: dukapress.php:948
+msgid "Active"
+msgstr "Hai"
+
+#: dukapress.php:951
+#: dukapress.php:960
+#: dukapress.php:969
+#: dukapress.php:978
+msgid "No"
+msgstr "Hapana"
+
+#: dukapress.php:952
+#: dukapress.php:961
+#: dukapress.php:970
+#: dukapress.php:979
+msgid "Yes"
+msgstr "Ndio"
+
+#: dukapress.php:957
+msgid "Display Stocks Amounts"
+msgstr "Onyesha hesabu ya bidhaa"
+
+#: dukapress.php:966
+msgid "Sold Out Notice"
+msgstr "Onyesha kwa bidhaa zimeisha"
+
+#: dukapress.php:975
+msgid "Warning Threshold"
+msgstr "Kizingiti cha Onyo"
+
+#: dukapress.php:984
+msgid "Inventory warning email"
+msgstr "Anwani ya barua pepe ya kutuma onyo"
+
+#: dukapress.php:992
+msgid "Shipping Options"
+msgstr "Njia za usafirishaji"
+
+#: dukapress.php:997
+msgid "Shipping calculation method"
+msgstr "Njia ya kuseabu malipo ya usafirishaji"
+
+#: dukapress.php:1000
+msgid "Free"
+msgstr "Bure"
+
+#: dukapress.php:1001
+msgid "Flat"
+msgstr "Malipo sawa"
+
+#: dukapress.php:1002
+msgid "Flat Limit"
+msgstr "Malipo sawa mpaka kikomo"
+
+#: dukapress.php:1003
+msgid "Weight Flat"
+msgstr "Lipiza kuzingatia uzito"
+
+#: dukapress.php:1004
+msgid "Weight Class"
+msgstr "Lipiza kuzingatia uzito mbalimbali"
+
+#: dukapress.php:1005
+msgid "Per Item"
+msgstr "Lipiza kila kitu kimoja peke yake"
+
+#: dukapress.php:1011
+msgid "Flat Rate"
+msgstr "Kiwango cha Malipo sawa"
+
+#: dukapress.php:1018
+msgid "Flat Limit Rate"
+msgstr "Kiwango cha Malipo sawa mpaka kikomo"
+
+#: dukapress.php:1025
+msgid "Weight Flat Rate"
+msgstr "Kiwango cha kulipiza kuzingatia uzito"
+
+#: dukapress.php:1032
+msgid "Weight Class Rate"
+msgstr "Kiwango cha kulipiza kuzingatia uzito mbalimbali"
+
+#: dukapress.php:1039
+msgid "Per Item Rate"
+msgstr "Kiwango cha kulipiza kila kitu peke yake"
+
+#: dukapress.php:1049
+msgid "Digital Products"
+msgstr "Bidhaa 'Digital'"
+
+#: dukapress.php:1054
+msgid "Download Links Duration:"
+msgstr "Muda wa \"Download Link\" kuwa hai"
+
+#: dukapress.php:1067
+#: php/dp-cart.php:473
+#: php/dp-cart.php:531
+msgid "PayPal"
+msgstr "PayPal"
+
+#: dukapress.php:1072
+msgid "Use PayPal Sandbox:"
+msgstr "Tumia \"payPal Sandbox\":"
+
+#: dukapress.php:1078
+msgid "PayPal ID"
+msgstr "PayPal ID"
+
+#: dukapress.php:1120
+#: php/dp-cart.php:479
+#: php/dp-cart.php:535
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#: dukapress.php:1125
+msgid "API Login"
+msgstr "API Login"
+
+#: dukapress.php:1131
+msgid "Transaction Key"
+msgstr "Transaction Key"
+
+#: dukapress.php:1137
+msgid "URL"
+msgstr "URL"
+
+#: dukapress.php:1146
+msgid "Test-Request"
+msgstr "Test-Request"
+
+#: dukapress.php:1157
+#: php/dp-cart.php:485
+#: php/dp-cart.php:539
+msgid "WorldPay"
+msgstr "WorldPay"
+
+#: dukapress.php:1162
+msgid "Installation-ID"
+msgstr "Installation-ID"
+
+#: dukapress.php:1168
+msgid "Testmode"
+msgstr "Testmode"
+
+#: dukapress.php:1187
+msgid "Your Shops' Currency Code is not compatible with WorldPay. Please choose a Currency Code from the below list. Payments will be converted to the selected Currency Code, when Payments are sent to WorldPay."
+msgstr "Sarafu inayotumiwa kwa duka lako haikubaliwi na WordPay.  tafadhali chagua nyingine kwa hizo hapa chini. Malipo yataguezwa kutumiwa hiyo sarafu mpya wateja wanapochagua kulipa kutumia WordPay."
+
+#: dukapress.php:1188
+msgid "WorldPay Currency Code"
+msgstr "Sarafu ya WorldPay"
+
+#: dukapress.php:1211
+#: php/dp-cart.php:491
+#: php/dp-cart.php:543
+msgid "AlertPay"
+msgstr "AlertPay"
+
+#: dukapress.php:1216
+msgid "AlertPay ID"
+msgstr "AlertPay ID"
+
+#: dukapress.php:1232
+msgid "Your Shops' Currency Code is not compatible with AlertPay. Please choose a Currency Code from the below list. Payments will be converted to the selected Currency Code, when Payments are sent to AlertPay."
+msgstr "Sarafu inayotumiwa kwa duka lako haikubaliwi na AlertPay.  tafadhali chagua nyingine kwa hizo hapa chini. Malipo yataguezwa kutumiwa hiyo sarafu mpya wateja wanapochagua kulipa kutumia AlertPay."
+
+#: dukapress.php:1233
+msgid "AlertPay Currency Code"
+msgstr "Sarafu ya AlertPay"
+
+#: dukapress.php:1256
+msgid "Mobile"
+msgstr "Rununu"
+
+#: dukapress.php:1262
+msgid "Name"
+msgstr "Jina"
+
+#: dukapress.php:1262
+msgid "Number"
+msgstr "Nambari"
+
+#: dukapress.php:1301
+msgid "Bank Details"
+msgstr "Maelezo ya benki"
+
+#: dukapress.php:1306
+msgid "Name of Bank"
+msgstr "Jina la benki"
+
+#: dukapress.php:1312
+msgid "Routing Number"
+msgstr "Routing Number"
+
+#: dukapress.php:1318
+msgid "Account Number"
+msgstr "Nambari ya Akaunti"
+
+#: dukapress.php:1324
+msgid "Bank Account Owner"
+msgstr "Jina la anayemilikia akaunti ya Benki"
+
+#: dukapress.php:1330
+msgid "IBAN"
+msgstr "BAN"
+
+#: dukapress.php:1336
+#: dukapress.php:1342
+msgid "BIC/SWIFT"
+msgstr "BIC/SWIFT"
+
+#: dukapress.php:1353
+msgid "Discount Management"
+msgstr "Diskaunti"
+
+#: dukapress.php:1358
+msgid "Enable Discount"
+msgstr "Wezesha Diskaunti"
+
+#: dukapress.php:1367
+#: php/dp-cart.php:400
+msgid "Enter Discount Code"
+msgstr "Ingiza kodi ya diskaunti"
+
+#: dukapress.php:1373
+msgid "Discount"
+msgstr "Diskaunti"
+
+#: dukapress.php:1379
+msgid "One Time Discount"
+msgstr "La kutumiwa mara moja?"
+
+#: dukapress.php:2018
+msgid "DukaPress News"
+msgstr "Habari za DukaPress"
+
+#: php/dp-cart.php:212
+msgid "Please review your order"
+msgstr "Tafadhali pitia tena unachotaka kununua"
+
+#: php/dp-cart.php:230
+#: php/dp-payment.php:125
+#, fuzzy
+msgid "There are no products in your cart."
+msgstr "Hakuna bidhaa kwa begi yako."
+
+#: php/dp-cart.php:256
+#: php/dp-widgets.php:180
+msgid "Price"
+msgstr "Bei"
+
+#: php/dp-cart.php:262
+#: php/dp-products.php:648
+#: php/dp-widgets.php:189
+msgid "Product"
+msgstr "Bidhaa"
+
+#: php/dp-cart.php:262
+#: php/dp-cart.php:1094
+msgid "Quantity"
+msgstr "Hesabu"
+
+#: php/dp-cart.php:339
+#: php/dp-products.php:22
+#: php/dp-products.php:26
+#: php/dp-products.php:410
+msgid "Price:"
+msgstr "Bei:"
+
+#: php/dp-cart.php:384
+msgid "Your Name:"
+msgstr "Jina lako:"
+
+#: php/dp-cart.php:385
+msgid "Your Email:"
+msgstr "Anwani ya barua pepe:"
+
+#: php/dp-cart.php:386
+msgid "Subject:"
+msgstr "Maudhui:"
+
+#: php/dp-cart.php:387
+msgid "Message:"
+msgstr "Ujumbe:"
+
+#: php/dp-cart.php:402
+msgid "Discount Code"
+msgstr "Kodi ya diskaunti"
+
+#: php/dp-cart.php:403
+msgid "Check"
+msgstr "Angalia"
+
+#: php/dp-cart.php:497
+#: php/dp-cart.php:547
+msgid "Bank transfer in advance"
+msgstr "Transfer ya benki"
+
+#: php/dp-cart.php:503
+#: php/dp-cart.php:551
+msgid "Cash at store"
+msgstr "Pesa Dukani"
+
+#: php/dp-cart.php:509
+#: php/dp-cart.php:559
+msgid "Cash on delivery"
+msgstr "Pesa utakapopata bidhaa"
+
+#: php/dp-cart.php:515
+#: php/dp-cart.php:555
+msgid "Pay by Mobile Phone"
+msgstr "Lipa kutumia simu ya mkono"
+
+#: php/dp-cart.php:527
+msgid "Make payment using "
+msgstr "Lipa kupitia"
+
+#: php/dp-cart.php:574
+msgid "Make Payment"
+msgstr "Lipa"
+
+#: php/dp-cart.php:799
+msgid "New user registration on your site %s:"
+msgstr "Mtumizi mpya ameandikishwa kwa duka lako %s:"
+
+#: php/dp-cart.php:800
+#: php/dp-cart.php:808
+msgid "Username: %s"
+msgstr "usernameL %s"
+
+#: php/dp-cart.php:801
+msgid "E-mail: %s"
+msgstr "Email: %s"
+
+#: php/dp-cart.php:803
+msgid "[%s] New User Registration"
+msgstr "[%s] Mtumizi mpwa kuandikishwa"
+
+#: php/dp-cart.php:809
+msgid "Password: %s"
+msgstr "Password: %s"
+
+#: php/dp-cart.php:818
+msgid "[%s] Your username and password"
+msgstr "[%s] Username na Password zako"
+
+#: php/dp-cart.php:983
+msgid "Billing Address"
+msgstr "Anwani ya anayelipa"
+
+#: php/dp-cart.php:984
+#: php/dp-cart.php:1013
+msgid "First Name"
+msgstr "Jina la Kwanza"
+
+#: php/dp-cart.php:985
+#: php/dp-cart.php:1014
+msgid "Please enter the First Name"
+msgstr "Tafadhali andika jina la kwanza"
+
+#: php/dp-cart.php:986
+#: php/dp-cart.php:1015
+msgid "Last Name"
+msgstr "Jina la mwisho"
+
+#: php/dp-cart.php:987
+#: php/dp-cart.php:1016
+msgid "Please enter the Last Name"
+msgstr "Tafadhali andika jina la mwisho"
+
+#: php/dp-cart.php:989
+#: php/dp-cart.php:1018
+msgid "Please enter the Address"
+msgstr "tfadhali andika Anwani"
+
+#: php/dp-cart.php:990
+#: php/dp-cart.php:1019
+msgid "City"
+msgstr "Jiji"
+
+#: php/dp-cart.php:991
+#: php/dp-cart.php:1020
+msgid "Please enter the City"
+msgstr "Tafadhali andika Jiji"
+
+#: php/dp-cart.php:992
+#: php/dp-cart.php:1021
+msgid "Province / State"
+msgstr "Mkoa / Jimbo"
+
+#: php/dp-cart.php:993
+#: php/dp-cart.php:1022
+msgid "Please enter the State"
+msgstr "Tafadhali andika jimbo"
+
+#: php/dp-cart.php:995
+#: php/dp-cart.php:1024
+msgid "Please enter the Postal Code"
+msgstr "Tafadhali andika kodi ya Posta"
+
+#: php/dp-cart.php:996
+#: php/dp-cart.php:1025
+msgid "Country"
+msgstr "nchi"
+
+#: php/dp-cart.php:1006
+msgid "Email"
+msgstr "Anwani ya barua pepe"
+
+#: php/dp-cart.php:1007
+msgid "Please enter the Email"
+msgstr "Tafadhali andika anwani ya barua pepe"
+
+#: php/dp-cart.php:1008
+msgid "Phone Number"
+msgstr "nambari ya simu"
+
+#: php/dp-cart.php:1009
+msgid "Please enter the Phone"
+msgstr "Tafadhali andika nambari ya simu"
+
+#: php/dp-cart.php:1012
+msgid "Shipping Address"
+msgstr "Anwani ya kusafirishia bidhaa"
+
+#: php/dp-cart.php:1036
+msgid "I have a different Shipping Address."
+msgstr "Anwani ya kusafirishia bidhaa ni tofauti"
+
+#: php/dp-cart.php:1092
+msgid "Sr No."
+msgstr "Sr No."
+
+#: php/dp-cart.php:1093
+msgid "Product Name"
+msgstr "Jina la bidhaa"
+
+#: php/dp-cart.php:1108
+msgid "Inquiry Form Submitted"
+msgstr "Fomu ya kutaka kujua mengine imekwa submitted"
+
+#: php/dp-cart.php:1109
+msgid "Thank you for submitting Inquiry form."
+msgstr "Asante kwa kutaka kujua zaidi"
+
+#: php/dp-cart.php:1109
+msgid "We will contact you soon."
+msgstr "Tutawasiliana nawe hivi karibuni."
+
+#: php/dp-cart.php:1113
+msgid "Thank you for your order!"
+msgstr "Asante kwa kununua!"
+
+#: php/dp-cart.php:1142
+#: php/dp-cart.php:1147
+msgid "Please keep"
+msgstr "Tafadhali weka"
+
+#: php/dp-cart.php:1142
+msgid "ready for payment upon delivery."
+msgstr "tayari tutakapoleta bidhaa."
+
+#: php/dp-cart.php:1147
+msgid "ready for payment when you come to take your order."
+msgstr "tayari utakapokuja kuchukua ulichonunua."
+
+#: php/dp-cart.php:1152
+msgid "Please transfer"
+msgstr "Tafadhali tuma"
+
+#: php/dp-cart.php:1152
+msgid "to our Bank Account using following information:"
+msgstr "kwa benki yetu ukitumia maelezo haya:"
+
+#: php/dp-cart.php:1155
+msgid "Name of Recipent:"
+msgstr "Jina la anayepokea:"
+
+#: php/dp-cart.php:1158
+msgid "for:</td><td>Order No.:"
+msgstr "kwar:</td><td>Order No.:"
+
+#: php/dp-cart.php:1161
+msgid "Name of Bank:"
+msgstr "Jina la Benki:"
+
+#: php/dp-cart.php:1164
+msgid "Routing Number:"
+msgstr "Routing Number:"
+
+#: php/dp-cart.php:1167
+msgid "Account Number:"
+msgstr "Account Number:"
+
+#: php/dp-cart.php:1170
+msgid "IBAN:"
+msgstr "IBAN:"
+
+#: php/dp-cart.php:1173
+msgid "BIC/SWIFT:"
+msgstr "BIC/SWIFT:"
+
+#: php/dp-cart.php:1176
+msgid "When we have received your payment in our account, we will begin to Process your Order."
+msgstr "Tutakapo pokea malipo, tutashughulikia agizo lako."
+
+#: php/dp-cart.php:1180
+msgid "Please send"
+msgstr "Tafadhali tuma"
+
+#: php/dp-cart.php:1180
+msgid "to any of the following numbers:"
+msgstr "kwa nambari yoyote katika hizi:"
+
+#: php/dp-cart.php:1193
+msgid "Please also send your invoice number to us by SMS using the phone that you used to send the money. When we have received your payment in any of our accounts, we shall begin to Process your Order."
+msgstr "Tafadhali pai tuma SMS ukitumia nambari unayotumia kutuma pesa.  Tutakapo pokea malipo, tutashughulikia agizo lako."
+
+#: php/dp-cart.php:1197
+msgid "Thank you for making the payment of"
+msgstr "Asante kwa kulipia"
+
+#: php/dp-cart.php:1197
+msgid "using"
+msgstr "kutumia"
+
+#: php/dp-cart.php:1198
+msgid "We will process your order soon."
+msgstr "Tutashughulikia agizo lako sasa hivi."
+
+#: php/dp-cart.php:1219
+msgid "Order canceled !!"
+msgstr "Agizo limekuwa canceled!"
+
+#: php/dp-products.php:48
+msgid "Select"
+msgstr "Chagua"
+
+#: php/dp-products.php:158
+msgid "Currently in Stock"
+msgstr "Iko kwa stoo"
+
+#: php/dp-products.php:161
+msgid "Out of Stock"
+msgstr "Haiko kwa stoo"
+
+#: php/dp-products.php:167
+msgid "Add to Cart"
+msgstr "Ongeza kwa Begi"
+
+#: php/dp-products.php:169
+msgid "Inquire"
+msgstr "Maelezo Zaidi"
+
+#: php/dp-products.php:411
+msgid "New Price:"
+msgstr "Bei Mpya:"
+
+#: php/dp-products.php:412
+msgid "Currently In Stock:"
+msgstr "Hesabu iliyo kwa stoo:"
+
+#: php/dp-products.php:413
+msgid "Item Weight:"
+msgstr "Uzito:"
+
+#: php/dp-products.php:414
+msgid "Digital File:"
+msgstr "Digital File:"
+
+#: php/dp-products.php:417
+msgid "Dropdown Options"
+msgstr "Dropdown Options"
+
+#: php/dp-products.php:424
+msgid "Option Name"
+msgstr "Jina la Option"
+
+#: php/dp-products.php:428
+msgid "Variation Name"
+msgstr "Jina la Variation"
+
+#: php/dp-products.php:432
+msgid "Variation Price"
+msgstr "Bei ya Variation"
+
+#: php/dp-products.php:647
+#: php/dp-widgets.php:225
+msgid "Products"
+msgstr "Bidhaa"
+
+#: php/dp-products.php:649
+#: php/dp-products.php:650
+msgid "Add New Product"
+msgstr "Ongeza bidhaa mpya"
+
+#: php/dp-products.php:651
+msgid "Edit"
+msgstr "Hairir"
+
+#: php/dp-products.php:652
+msgid "Edit Product"
+msgstr "Hairir Bidhaa"
+
+#: php/dp-products.php:653
+msgid "New Product"
+msgstr "Bidhaa Mpya"
+
+#: php/dp-products.php:654
+#: php/dp-products.php:655
+msgid "View Product"
+msgstr "Angalia Bidhaa"
+
+#: php/dp-products.php:656
+msgid "Search Products"
+msgstr "Tafuta kwa Bidhaa"
+
+#: php/dp-products.php:657
+msgid "No products found"
+msgstr "Hakuna Bidhaa iliyopatikana"
+
+#: php/dp-products.php:658
+msgid "No products found in Trash"
+msgstr "Hakuna Bidhaa iliyofutwa ilipatikana"
+
+#: php/dp-products.php:660
+msgid "Products for use with DukaPress"
+msgstr "Bidhaa ya kutumiwa na DukaPress"
+
+#: php/dp-widgets.php:14
+msgid "Displays DukaPress Shopping Cart"
+msgstr "Huonyehsa Begi ya Ununuzi ya DukaPress"
+
+#. #-#-#-#-#  plugin.pot (DukaPress Shopping Cart 2.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  plugin.pot (DukaPress Shopping Cart 2.1)  #-#-#-#-#
+#. Description of the plugin/theme
+#: php/dp-widgets.php:16
+#: php/dp-widgets.php:39
+msgid "DukaPress Shopping Cart"
+msgstr "Begi ya Ununuzi ya DukaPress"
+
+#: php/dp-widgets.php:24
+#: php/dp-widgets.php:68
+msgid "Title:"
+msgstr "Jina:"
+
+#: php/dp-widgets.php:27
+msgid "To change settings"
+msgstr "Kugeuza 'Settings'"
+
+#: php/dp-widgets.php:27
+#: php/dp-widgets.php:71
+msgid "click here"
+msgstr "Bonyeza hapa"
+
+#: php/dp-widgets.php:58
+msgid "Displays DukaPress Checkout Link"
+msgstr "Huonyesha  DukaPress Checkout Link"
+
+#: php/dp-widgets.php:60
+#: php/dp-widgets.php:83
+msgid "DukaPress Checkout"
+msgstr "DukaPress Checkout"
+
+#: php/dp-widgets.php:71
+msgid "To change checkout url"
+msgstr "Kugeuza checkout url"
+
+#: php/dp-widgets.php:104
+msgid "Displays Mini DukaPress Shopping Cart"
+msgstr "Huonyesha Mini DukaPress Shopping Cart"
+
+#: php/dp-widgets.php:106
+msgid "Mini DukaPress Shopping Cart"
+msgstr "Mini DukaPress Shopping Cart"
+
+#: php/dp-widgets.php:138
+#: php/dp-widgets.php:172
+msgid "Your cart is empty."
+msgstr "Begi lako liko tupu."
+
+#: php/dp-widgets.php:142
+msgid "Go to Checkout"
+msgstr "Enda Ulipe"
+
+#: php/dp-widgets.php:186
+msgid "You have added"
+msgstr "Umeongeza"
+
+#: php/dp-widgets.php:186
+msgid "to the cart"
+msgstr "kwa begi"
+
+#: php/dp-widgets.php:190
+msgid "Qty"
+msgstr "Qty"
+
+#: php/dp-widgets.php:214
+msgid "Empty your cart"
+msgstr "Ondoa bidhaa kwa begi"
+
+#: php/dp-widgets.php:240
+msgid "Product Display"
+msgstr "Product Display"
+
+#: php/dp-widgets.php:242
+msgid "DukaPress Product Display"
+msgstr "DukaPress Product Display"
+
+#. #-#-#-#-#  plugin.pot (DukaPress Shopping Cart 2.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (DukaPress Shopping Cart 2.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://dukapress.org/"
+msgstr "http://dukapress.org/"
+
+#. Author of the plugin/theme
+msgid "Parshwa Nemi Jain and Nickel Pro"
+msgstr "Parshwa Nemi Jain and Nickel Pro"
+

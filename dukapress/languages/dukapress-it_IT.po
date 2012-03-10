@@ -1,0 +1,1201 @@
+# Copyright (C) 2010 DukaPress Shopping Cart
+# This file is distributed under the same license as the DukaPress Shopping Cart package.
+msgid ""
+msgstr ""
+"Project-Id-Version: DukaPress Shopping Cart in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-06 21:02+0100\n"
+"PO-Revision-Date: 2011-09-10 19:06+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao[at]gmail[dot]com>\n"
+"Language-Team: Gianni Diurno | gidibao.net & charmingpress.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dukapress.php:36
+#: dukapress.php:66
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: dukapress.php:37
+msgid "FAQ"
+msgstr "FAQ"
+
+#: dukapress.php:38
+msgid "Support"
+msgstr "Supporto"
+
+#: dukapress.php:64
+msgid "Order Log"
+msgstr "Registro ordinazioni"
+
+#: dukapress.php:65
+msgid "Customer Log"
+msgstr "Registro cliente"
+
+#: dukapress.php:67
+msgid "Products"
+msgstr "Prodotti"
+
+#: dukapress.php:68
+msgid "Add New Product"
+msgstr "Aggiungi un nuovo prodotto"
+
+#: dukapress.php:76
+msgid "DukaPress Transactions"
+msgstr "DukaPress - Transazioni"
+
+#: dukapress.php:108
+#, php-format
+msgid "Total %d orders sold with total amount of %s %d"
+msgstr "Totale di %d ordinazioni vendute per un importo totale di %s %d"
+
+#: dukapress.php:132
+msgid "DukaPress Customer Log"
+msgstr "DukaPress - Registro cliente"
+
+#: dukapress.php:144
+#: dukapress.php:418
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: dukapress.php:145
+#: dukapress.php:419
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: dukapress.php:157
+#: dukapress.php:182
+#: dukapress.php:224
+#: dukapress.php:431
+#: dukapress.php:510
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "In visione %s&#8211;%s di %s"
+
+#: dukapress.php:400
+msgid "DukaPress Shop Order Log"
+msgstr "DukaPress - Registro ordinazioni negozio"
+
+#: dukapress.php:448
+msgid "Invoice Number"
+msgstr "Numero fattura"
+
+#: dukapress.php:449
+#: dukapress.php:1462
+msgid "Name"
+msgstr "Nome"
+
+#: dukapress.php:450
+msgid "Date"
+msgstr "Data"
+
+#: dukapress.php:451
+msgid "Amount"
+msgstr "Importo"
+
+#: dukapress.php:452
+#: dukapress.php:622
+msgid "Mode of Payment"
+msgstr "Modalità pagamento"
+
+#: dukapress.php:453
+msgid "Status"
+msgstr "Stato"
+
+#: dukapress.php:462
+#: dukapress.php:490
+#: dukapress.php:642
+#: dukapress.php:644
+#, php-format
+msgid "%d"
+msgstr "%d"
+
+#: dukapress.php:465
+msgid "Delete"
+msgstr "Cancella"
+
+#: dukapress.php:468
+#, php-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#: dukapress.php:469
+#: dukapress.php:493
+#: dukapress.php:622
+#: dukapress.php:623
+#: dukapress.php:643
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: dukapress.php:538
+msgid "No records found !"
+msgstr " Nessun dato rilevato !"
+
+#: dukapress.php:620
+msgid "Transaction Details for Invoice No. "
+msgstr "Dettagli transazione per fattura n.ro"
+
+#: dukapress.php:623
+msgid "Payment Status"
+msgstr "Stato pagamento"
+
+#: dukapress.php:628
+msgid "Product Name"
+msgstr "Nome prodotto"
+
+#: dukapress.php:629
+msgid "Price"
+msgstr "Prezzo"
+
+#: dukapress.php:630
+msgid "Quantity"
+msgstr "Quantità"
+
+#: dukapress.php:631
+msgid "Total Amount"
+msgstr "Importo totale"
+
+#: dukapress.php:675
+msgid "Sub-Total:"
+msgstr "Subtotale:"
+
+#: dukapress.php:678
+msgid "Shipping:"
+msgstr "Trasporto:"
+
+#: dukapress.php:681
+msgid "Discount:"
+msgstr "Sconto:"
+
+#: dukapress.php:684
+msgid "Tax:"
+msgstr "Iva:"
+
+#: dukapress.php:687
+msgid "Total:"
+msgstr "Totale:"
+
+#: dukapress.php:693
+msgid "Click here to download your Invoice."
+msgstr "Clicca qui per scaricare la tua fattura."
+
+#: dukapress.php:697
+msgid "Send Payment Notification."
+msgstr "Invia notifica pagamento."
+
+#: dukapress.php:928
+msgid "Settings Saved"
+msgstr "Le impostazioni sono state salvate"
+
+#: dukapress.php:948
+msgid "Basic Shop Settings"
+msgstr "Impostazioni negozio di base"
+
+#: dukapress.php:953
+msgid "Name of Shop"
+msgstr "Nome del negozio"
+
+#: dukapress.php:959
+msgid "Address"
+msgstr "Indirizzo"
+
+#: dukapress.php:965
+msgid "State / Province"
+msgstr "Stato / Provincia"
+
+#: dukapress.php:971
+msgid "Postal Code"
+msgstr "Codice postale"
+
+#: dukapress.php:977
+msgid "City / Town"
+msgstr "Città / Paese"
+
+#: dukapress.php:983
+msgid "Shop Mode"
+msgstr "Modalità negozio"
+
+#: dukapress.php:992
+msgid "Country of your shop"
+msgstr "Località del tuo negozio"
+
+#: dukapress.php:1008
+msgid "Currency"
+msgstr "Valuta"
+
+#: dukapress.php:1030
+msgid "Enable User Registration:"
+msgstr "Attiva registrazione utente:"
+
+#: dukapress.php:1036
+msgid "Enable Invoice PDF Generation:"
+msgstr "Attiva generazione PDF fattura:"
+
+#: dukapress.php:1042
+msgid "Product Page Image Effect"
+msgstr "Effetto immagine pagina prodotto"
+
+#: dukapress.php:1049
+msgid "No Effect"
+msgstr "Nessun effetto"
+
+#: dukapress.php:1054
+msgid "Main Product Image Size"
+msgstr "Dimensione immagine principale prodotto"
+
+#: dukapress.php:1058
+#: dukapress.php:1071
+#: dukapress.php:1084
+msgid "Width"
+msgstr "Larghezza"
+
+#: dukapress.php:1061
+#: dukapress.php:1074
+#: dukapress.php:1087
+msgid "Height"
+msgstr "Altezza"
+
+#: dukapress.php:1067
+msgid "Product Thumbnail Size"
+msgstr "Dimensione miniatura prodotto"
+
+#: dukapress.php:1080
+msgid "Grid Product Thumbnail Size"
+msgstr "Dimensione miniatura griglia prodotto"
+
+#: dukapress.php:1093
+msgid "Currency Symbol"
+msgstr "Simbolo valuta"
+
+#: dukapress.php:1099
+msgid "Checkout Page URL"
+msgstr "URL pagina Cassa"
+
+#: dukapress.php:1105
+msgid "Thank You Page URL"
+msgstr "URL pagina ringraziamenti"
+
+#: dukapress.php:1111
+msgid "Tax"
+msgstr "Iva"
+
+#: dukapress.php:1117
+#: dukapress.php:1264
+msgid "Payment Options"
+msgstr "Opzioni pagamento"
+
+#: dukapress.php:1123
+msgid "Bank transfer in advance"
+msgstr "Pagamento anticipato (Banca)"
+
+#: dukapress.php:1124
+msgid "Cash at store"
+msgstr "Contante in negozio"
+
+#: dukapress.php:1125
+msgid "Mobile Payment"
+msgstr "Credito telefonico"
+
+#: dukapress.php:1126
+msgid "Cash on delivery"
+msgstr "Contrassegno"
+
+#: dukapress.php:1134
+msgid "Product Management"
+msgstr "Gestione prodotto"
+
+#: dukapress.php:1137
+msgid "Inventory Settings"
+msgstr "Impostazioni inventario"
+
+#: dukapress.php:1142
+msgid "Active"
+msgstr "Attiva"
+
+#: dukapress.php:1145
+#: dukapress.php:1154
+#: dukapress.php:1163
+#: dukapress.php:1172
+msgid "No"
+msgstr "No"
+
+#: dukapress.php:1146
+#: dukapress.php:1155
+#: dukapress.php:1164
+#: dukapress.php:1173
+msgid "Yes"
+msgstr "Sì"
+
+#: dukapress.php:1151
+msgid "Display Stocks Amounts"
+msgstr "Mostra quantità in magazzino"
+
+#: dukapress.php:1160
+msgid "Sold Out Notice"
+msgstr "Avviso tutto esaurito"
+
+#: dukapress.php:1169
+msgid "Warning Threshold"
+msgstr "Avviso soglia"
+
+#: dukapress.php:1178
+msgid "Inventory warning email"
+msgstr "Email avviso inventario"
+
+#: dukapress.php:1184
+msgid "Inventory Stock for Warning"
+msgstr "Inventario giacenze per avviso"
+
+#: dukapress.php:1192
+msgid "Shipping Options"
+msgstr "Opzioni trasporto"
+
+#: dukapress.php:1197
+msgid "Shipping calculation method"
+msgstr "Metodo calcolo trasporto"
+
+#: dukapress.php:1200
+msgid "Free"
+msgstr "Gratuito"
+
+#: dukapress.php:1201
+msgid "Flat"
+msgstr "Prezzo fisso"
+
+#: dukapress.php:1202
+msgid "Flat Limit"
+msgstr "Limite prezzo"
+
+#: dukapress.php:1203
+msgid "Weight Flat"
+msgstr "Prezzo a peso"
+
+#: dukapress.php:1204
+msgid "Weight Class"
+msgstr "Misura peso"
+
+#: dukapress.php:1205
+msgid "Per Item"
+msgstr "Per oggetto"
+
+#: dukapress.php:1211
+msgid "Flat Rate"
+msgstr "Tasso fisso"
+
+#: dukapress.php:1218
+msgid "Flat Limit Rate"
+msgstr "Limite tasso fisso"
+
+#: dukapress.php:1225
+msgid "Weight Flat Rate"
+msgstr "Tasso prezzo peso"
+
+#: dukapress.php:1232
+msgid "Weight Class Rate"
+msgstr "Tasso misura peso"
+
+#: dukapress.php:1239
+msgid "Per Item Rate"
+msgstr "Per tasso elemento"
+
+#: dukapress.php:1249
+msgid "Digital Products"
+msgstr "Prodotti digitali"
+
+#: dukapress.php:1254
+msgid "Download Links Duration:"
+msgstr "Durata link di download:"
+
+#: dukapress.php:1267
+msgid "PayPal"
+msgstr "PayPal"
+
+#: dukapress.php:1272
+msgid "Use PayPal Sandbox:"
+msgstr "Usa PayPal Sandbox:"
+
+#: dukapress.php:1278
+msgid "PayPal ID"
+msgstr "ID PayPal"
+
+#: dukapress.php:1295
+msgid "Your Shop's Currency Code is not compatible with PayPal. Please choose a Currency Code from the below list. Payments will be converted to the selected Currency Code, when Payments are sent to PayPal."
+msgstr "Il codice valuta del tuo negozio non è compatibile con PayPal. Scegli un codice valuta tra quelli elencati qui sotto. I pagamenti saranno convertiti al codice valuta selezionato, quando i pagamenti saranno inviati a PayPal."
+
+#: dukapress.php:1296
+msgid "PayPal Currency Code"
+msgstr "PayPal - Codice valuta"
+
+#: dukapress.php:1320
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#: dukapress.php:1325
+msgid "API Login"
+msgstr "API Login"
+
+#: dukapress.php:1331
+msgid "Transaction Key"
+msgstr "Chiave transazione"
+
+#: dukapress.php:1337
+msgid "URL"
+msgstr "URL"
+
+#: dukapress.php:1346
+msgid "Test-Request"
+msgstr "Richiesta-test"
+
+#: dukapress.php:1357
+msgid "WorldPay"
+msgstr "WorldPay"
+
+#: dukapress.php:1362
+msgid "Installation-ID"
+msgstr "ID-installazione"
+
+#: dukapress.php:1368
+msgid "Testmode"
+msgstr "Modalità test"
+
+#: dukapress.php:1387
+msgid "Your Shop's Currency Code is not compatible with WorldPay. Please choose a Currency Code from the below list. Payments will be converted to the selected Currency Code, when Payments are sent to WorldPay."
+msgstr "Il codice valuta del tuo negozio non è compatibile con WorldPay. Scegli un codice valuta tra quelli elencati qui sotto. I pagamenti saranno convertiti al codice valuta selezionato, quando i pagamenti saranno inviati a WorldPay."
+
+#: dukapress.php:1388
+msgid "WorldPay Currency Code"
+msgstr "WorldPay - Codice valuta"
+
+#: dukapress.php:1411
+msgid "AlertPay"
+msgstr "AlertPay"
+
+#: dukapress.php:1416
+msgid "AlertPay ID"
+msgstr "ID AlertPay"
+
+#: dukapress.php:1432
+msgid "Your Shop's Currency Code is not compatible with AlertPay. Please choose a Currency Code from the below list. Payments will be converted to the selected Currency Code, when Payments are sent to AlertPay."
+msgstr "Il codice valuta del tuo negozio non è compatibile con AlertPay. Scegli un codice valuta tra quelli elencati qui sotto. I pagamenti saranno convertiti al codice valuta selezionato, quando i pagamenti saranno inviati a AlertPay."
+
+#: dukapress.php:1433
+msgid "AlertPay Currency Code"
+msgstr "AlertPay - Codice valuta"
+
+#: dukapress.php:1456
+msgid "Mobile"
+msgstr "Mobile"
+
+#: dukapress.php:1462
+msgid "Number"
+msgstr "Numero"
+
+#: dukapress.php:1501
+msgid "Bank Details"
+msgstr "Dettagli banca"
+
+#: dukapress.php:1506
+msgid "Name of Bank"
+msgstr "Nome della banca"
+
+#: dukapress.php:1512
+msgid "Routing Number"
+msgstr "Coordinate bancarie"
+
+#: dukapress.php:1518
+msgid "Account Number"
+msgstr "Numero conto"
+
+#: dukapress.php:1524
+msgid "Bank Account Owner"
+msgstr "Intestatario conto banca"
+
+#: dukapress.php:1530
+msgid "IBAN"
+msgstr "IBAN"
+
+#: dukapress.php:1536
+msgid "BIC/SWIFT"
+msgstr "BIC/SWIFT"
+
+#: dukapress.php:1547
+msgid "Discount Management"
+msgstr "Gestione sconto"
+
+#: dukapress.php:1552
+msgid "Enable Discount"
+msgstr "Attiva sconto"
+
+#: dukapress.php:1561
+msgid "Enter Discount Code"
+msgstr "Inserisci codice sconto"
+
+#: dukapress.php:1567
+msgid "Discount"
+msgstr "Sconto"
+
+#: dukapress.php:1573
+msgid "One Time Discount"
+msgstr "Sconto unico"
+
+#: dukapress.php:1591
+msgid "Email Management"
+msgstr "Gestione email"
+
+#: dukapress.php:1594
+msgid "Order Placed"
+msgstr "Ordinazioni evase"
+
+#: dukapress.php:1598
+#: dukapress.php:1655
+#: dukapress.php:1711
+#: dukapress.php:1774
+#: dukapress.php:1810
+#: dukapress.php:1843
+msgid "To Admin"
+msgstr "all'amministratore"
+
+#: dukapress.php:1606
+#: dukapress.php:1631
+#: dukapress.php:1663
+#: dukapress.php:1688
+#: dukapress.php:1720
+#: dukapress.php:1747
+#: dukapress.php:1783
+#: dukapress.php:1819
+#: dukapress.php:1852
+#: dukapress.php:1879
+msgid "Subject"
+msgstr "Oggetto"
+
+#: dukapress.php:1614
+#: dukapress.php:1639
+#: dukapress.php:1671
+#: dukapress.php:1696
+#: dukapress.php:1728
+#: dukapress.php:1755
+#: dukapress.php:1791
+#: dukapress.php:1827
+#: dukapress.php:1860
+#: dukapress.php:1887
+msgid "Message"
+msgstr "Messaggio"
+
+#: dukapress.php:1617
+#: dukapress.php:1642
+#: dukapress.php:1674
+#: dukapress.php:1699
+#: dukapress.php:1731
+#: dukapress.php:1758
+#: dukapress.php:1794
+#: dukapress.php:1830
+#: dukapress.php:1863
+#: dukapress.php:1890
+msgid "Use"
+msgstr "Usa"
+
+#: dukapress.php:1617
+msgid "as Billing Address, Shipping Address, Invoice, Site URL, Shop Name, Order Log Transaction"
+msgstr "per indirizzo fatturazione, indirizzo di consegna, fattura, URL sito, Nome negozio, registro transazione ordinazione"
+
+#: dukapress.php:1623
+#: dukapress.php:1680
+#: dukapress.php:1738
+#: dukapress.php:1870
+msgid "To User"
+msgstr "all'utente"
+
+#: dukapress.php:1642
+msgid "As Billing First Name, Billing Last Name, Invoice, Shop Name and site URL"
+msgstr "per Nome intestatario, Cognome intestatario, Fattura, Nome negozio e URL sito"
+
+#: dukapress.php:1651
+msgid "Order Canceled"
+msgstr "L'ordinazione è stata annullata"
+
+#: dukapress.php:1674
+msgid "FirstName,Last Name, Invoice, Status,Digi,Site URL, Shop Name, Order Log Transaction"
+msgstr "Nome, Cognome, Fattura, Stato, Digi, URL sito, Nome negozio, Registro transazione ordinazioni"
+
+#: dukapress.php:1699
+msgid "As Billing First Name, Billing Last Name, Invoice,Status, Shop Name and site URL"
+msgstr "per Nome intestatario, Cognome intestatario, Fattura,Stato, Nome negozio e URL sito"
+
+#: dukapress.php:1708
+msgid "User Registration"
+msgstr "Registrazione utente"
+
+#: dukapress.php:1731
+msgid "as User Name, Password, email, and ShopName"
+msgstr "come nome utente, password, email e nome del negozio"
+
+#: dukapress.php:1758
+msgid "as User Name, Password, email, Login URL, and ShopName"
+msgstr "come nome utente, password, email, URL login e nome del negozio"
+
+#: dukapress.php:1767
+msgid "Inventory"
+msgstr "Inventario"
+
+#: dukapress.php:1794
+msgid "as Product No., Product Name, Currently in Stock Quantity, and footer"
+msgstr "per numero prodotto, nome prodotto, quantità giacenza in magazzino e footer"
+
+#: dukapress.php:1803
+msgid "Enquiry"
+msgstr "Richiesta"
+
+#: dukapress.php:1830
+msgid "as Enquirers Name, Enquirers email, Enquiry Subject, Enquiry Details, and Enquiry custom message"
+msgstr "per Nome richiedente, Email richiedente, Oggetto richiesta, Dettaglio richiesta e Messaggio personalizzato richiesta"
+
+#: dukapress.php:1840
+msgid "Payments"
+msgstr "Pagamenti"
+
+#: dukapress.php:1863
+msgid "as Payers First Name, Payers email, Invoice, Payment status, Digital Products, and Shop Name"
+msgstr "per Nome acquirente, Email acquirente, Fattura, Stato acquirente, Prodotti digitali e Nome negozio"
+
+#: dukapress.php:1890
+msgid "as Payers First Name, Payers email, Invoice, Payment Status, Digital Products, and Shop Name"
+msgstr "per Nome acquirente, Email acquirente, Fattura, Stato acquirente, Prodotti digitali e Nome negozio"
+
+#: dukapress.php:2521
+msgid "DukaPress News"
+msgstr "DukaPress News"
+
+#: php/dp-cart.php:252
+msgid "Please review your order"
+msgstr "Revisiona la tua ordinazione"
+
+#: php/dp-cart.php:268
+#: php/dp-payment.php:57
+msgid "There are no products in your cart."
+msgstr "Non ci sono dei prodotti nel tuo cartello."
+
+#: php/dp-cart.php:298
+#: php/dp-products.php:765
+#: php/dp-widgets.php:189
+msgid "Product"
+msgstr "Prodotto"
+
+#: php/dp-cart.php:334
+msgid "Update"
+msgstr "Aggiorna"
+
+#: php/dp-cart.php:341
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: php/dp-cart.php:390
+#: php/dp-products.php:26
+#: php/dp-products.php:29
+#: php/dp-products.php:536
+msgid "Price:"
+msgstr "Prezzo:"
+
+#: php/dp-cart.php:434
+msgid "Your Name:"
+msgstr "Il tuo nome:"
+
+#: php/dp-cart.php:434
+msgid "Please enter your name"
+msgstr "Inserisci il tuo nome. Grazie"
+
+#: php/dp-cart.php:435
+msgid "Your Email:"
+msgstr "La tua email:"
+
+#: php/dp-cart.php:435
+msgid "Please enter your email address"
+msgstr "Inserisci il tuo indirizzo email. Grazie"
+
+#: php/dp-cart.php:436
+msgid "Subject:"
+msgstr "Oggetto:"
+
+#: php/dp-cart.php:436
+msgid "Please enter the subject"
+msgstr "Inserisci un oggetto. Grazie"
+
+#: php/dp-cart.php:437
+msgid "Message:"
+msgstr "Messaggio:"
+
+#: php/dp-cart.php:437
+msgid "Please enter the message"
+msgstr "Inserisci il messaggio. Grazie"
+
+#: php/dp-cart.php:452
+msgid "Discount Code"
+msgstr "Codice sconto"
+
+#: php/dp-cart.php:453
+msgid "Check"
+msgstr "Assegno"
+
+#: php/dp-cart.php:564
+#: php/dp-cart.php:608
+msgid "Pay by Mobile Phone"
+msgstr "Pagamento via telefono"
+
+#: php/dp-cart.php:570
+#: php/dp-cart.php:616
+msgid "Mercadopago"
+msgstr "Mercadopago"
+
+#: php/dp-cart.php:580
+msgid "Make payment using "
+msgstr "Effettua pagamento via"
+
+#: php/dp-cart.php:630
+msgid "Make Payment"
+msgstr "Effettua pagamento"
+
+#: php/dp-cart.php:1107
+msgid "Billing Address"
+msgstr "Indirizzo fatturazione"
+
+#: php/dp-cart.php:1108
+#: php/dp-cart.php:1137
+msgid "First Name"
+msgstr "Nome"
+
+#: php/dp-cart.php:1109
+#: php/dp-cart.php:1138
+msgid "Please enter the First Name"
+msgstr "Inserisci il nome di battesimo. Grazie"
+
+#: php/dp-cart.php:1110
+#: php/dp-cart.php:1139
+msgid "Last Name"
+msgstr "Cognome"
+
+#: php/dp-cart.php:1111
+#: php/dp-cart.php:1140
+msgid "Please enter the Last Name"
+msgstr "Inserisci il cognome. Grazie"
+
+#: php/dp-cart.php:1113
+#: php/dp-cart.php:1142
+msgid "Please enter the Address"
+msgstr "Inserisci l'indirizzo. Grazie"
+
+#: php/dp-cart.php:1114
+#: php/dp-cart.php:1143
+msgid "City"
+msgstr "Città"
+
+#: php/dp-cart.php:1115
+#: php/dp-cart.php:1144
+msgid "Please enter the City"
+msgstr "Inserisci la città. Grazie"
+
+#: php/dp-cart.php:1116
+#: php/dp-cart.php:1145
+msgid "Province / State"
+msgstr "Provincia / Stato"
+
+#: php/dp-cart.php:1117
+#: php/dp-cart.php:1146
+msgid "Please enter the State"
+msgstr "Inserisci lo stato. Grazie"
+
+#: php/dp-cart.php:1119
+#: php/dp-cart.php:1148
+msgid "Please enter the Postal Code"
+msgstr "Inserisci il codice postale. Grazie"
+
+#: php/dp-cart.php:1120
+#: php/dp-cart.php:1149
+msgid "Country"
+msgstr "Paese"
+
+#: php/dp-cart.php:1130
+msgid "Email"
+msgstr "Email"
+
+#: php/dp-cart.php:1131
+msgid "Please enter the Email"
+msgstr "Inserisci la email. Grazie"
+
+#: php/dp-cart.php:1132
+msgid "Phone Number"
+msgstr "Numero telefonico"
+
+#: php/dp-cart.php:1133
+msgid "Please enter the Phone"
+msgstr "Inserisci il numero di telefono. Grazie"
+
+#: php/dp-cart.php:1136
+msgid "Shipping Address"
+msgstr "Indirizzo consegna"
+
+#: php/dp-cart.php:1161
+msgid "I have a different Shipping Address."
+msgstr "Ho un differente indirizzo per la consegna."
+
+#: php/dp-cart.php:1217
+msgid "Sr No."
+msgstr "Sr No."
+
+#: php/dp-cart.php:1247
+msgid "Inquiry Form Submitted"
+msgstr "Il modulo informativo è stato inviato"
+
+#: php/dp-cart.php:1248
+msgid "Thank you for submitting our Inquiry form."
+msgstr "Grazie per il tuo messaggio informativo."
+
+#: php/dp-cart.php:1248
+msgid "We will contact you soon."
+msgstr "Verrai contattato al più presto."
+
+#: php/dp-cart.php:1259
+msgid "Thank you for your order!"
+msgstr "Grazie per avere effettuato la tua ordinazione!"
+
+#: php/dp-cart.php:1287
+#: php/dp-cart.php:1292
+msgid "Please keep"
+msgstr "Considerati "
+
+#: php/dp-cart.php:1287
+msgid "ready for payment upon delivery."
+msgstr "pronto per il pagamento contrassegno."
+
+#: php/dp-cart.php:1292
+msgid "ready for payment when you come to take your order."
+msgstr "pronto per il pagamento al momento della ordinazione."
+
+#: php/dp-cart.php:1297
+msgid "Please transfer"
+msgstr "Trasferisci"
+
+#: php/dp-cart.php:1297
+msgid "to our Bank Account using the following information:"
+msgstr "al nostro conto bancario utilizzando le seguenti informazioni:"
+
+#: php/dp-cart.php:1300
+msgid "Name of Recipent:"
+msgstr "Nome del destinatario:"
+
+#: php/dp-cart.php:1303
+msgid "for:</td><td>Order No.:"
+msgstr "per:</td><td>Ordinazione N.ro:"
+
+#: php/dp-cart.php:1306
+msgid "Name of Bank:"
+msgstr "Nome della Banca:"
+
+#: php/dp-cart.php:1309
+msgid "Routing Number:"
+msgstr "Coordinate bancarie:"
+
+#: php/dp-cart.php:1312
+msgid "Account Number:"
+msgstr "Numero conto:"
+
+#: php/dp-cart.php:1315
+msgid "IBAN:"
+msgstr "IBAN:"
+
+#: php/dp-cart.php:1318
+msgid "BIC/SWIFT:"
+msgstr "BIC/SWIFT:"
+
+#: php/dp-cart.php:1321
+msgid "When we have received your payment in our account, we will begin to Process your Order."
+msgstr "Quando avremo ricevuto il tuo pagamento, avvieremo le procedure per la tua ordinazione."
+
+#: php/dp-cart.php:1325
+msgid "Please send"
+msgstr "Invia"
+
+#: php/dp-cart.php:1325
+msgid "to any of the following numbers:"
+msgstr "ad ogniuno dei seguenti numeri:"
+
+#: php/dp-cart.php:1338
+msgid "Please also send your invoice number to us by SMS using the phone that you used to send the money. When we have received your payment in any of our accounts, we shall begin to Process your Order."
+msgstr "Inviaci inoltre il tuo numero della fattura via SMS utilizzando il telefono con il quale ci hai inviato il denaro. Una volta ricevuto il tuo pagamento in uno dei nostri account, avvieremo il processo della tua oedinazione."
+
+#: php/dp-cart.php:1353
+msgid "Purchase details"
+msgstr "Dettagli acquisto"
+
+#: php/dp-cart.php:1358
+msgid "Product Price"
+msgstr "Prezzo prodotto"
+
+#: php/dp-cart.php:1362
+msgid "Product Quantity"
+msgstr "Quantità prodotto"
+
+#: php/dp-cart.php:1365
+msgid "Tax Amount"
+msgstr "Importo tassa"
+
+#: php/dp-cart.php:1370
+msgid "Total Price"
+msgstr "Prezzo ivato"
+
+#: php/dp-cart.php:1380
+msgid "Thank you for making the payment of"
+msgstr "Grazie per avere effettuato il pagamento per"
+
+#: php/dp-cart.php:1380
+msgid "using"
+msgstr "utilizzando"
+
+#: php/dp-cart.php:1381
+msgid "We will process your order soon."
+msgstr "Avvieremo il processo del tuo ordine il più presto possibile."
+
+#: php/dp-cart.php:1408
+msgid "Order canceled !!"
+msgstr "L'ordinazione è stata annullata !!"
+
+#: php/dp-products.php:58
+msgid "Select"
+msgstr "Seleziona"
+
+#: php/dp-products.php:169
+msgid "Currently in Stock"
+msgstr "Attualmente in magazzino"
+
+#: php/dp-products.php:172
+msgid "Out of Stock"
+msgstr "Esaurito"
+
+#: php/dp-products.php:178
+msgid "Add to Cart"
+msgstr "Aggiungi al carrello"
+
+#: php/dp-products.php:180
+msgid "Inquire"
+msgstr "Informazioni"
+
+#: php/dp-products.php:184
+#: php/dp-products.php:188
+#: php/dp-widgets.php:296
+msgid "Buy Now"
+msgstr "Acquista adesso"
+
+#: php/dp-products.php:537
+msgid "New Price:"
+msgstr "Nuovo prezzo:"
+
+#: php/dp-products.php:538
+msgid "Currently In Stock:"
+msgstr "Attualmente in magazzino:"
+
+#: php/dp-products.php:539
+msgid "Item Weight:"
+msgstr "Peso oggetto:"
+
+#: php/dp-products.php:539
+msgid "in grams"
+msgstr "in grammi"
+
+#: php/dp-products.php:540
+msgid "Digital File:"
+msgstr "File digitale:"
+
+#: php/dp-products.php:543
+msgid "Dropdown Options"
+msgstr "Opzioni dropdown"
+
+#: php/dp-products.php:550
+msgid "Option Name"
+msgstr "Opzione nome"
+
+#: php/dp-products.php:554
+msgid "Variation Name"
+msgstr "Variazioni nome"
+
+#: php/dp-products.php:558
+msgid "Variation Price"
+msgstr "Variazioni prezzo"
+
+#: php/dp-products.php:768
+msgid "Edit"
+msgstr "Modifica"
+
+#: php/dp-products.php:769
+msgid "Edit Product"
+msgstr "Modifica prodotto"
+
+#: php/dp-products.php:770
+msgid "New Product"
+msgstr "Nuovo prodotto"
+
+#: php/dp-products.php:771
+#: php/dp-products.php:772
+msgid "View Product"
+msgstr "Vedi prodotto"
+
+#: php/dp-products.php:773
+msgid "Search Products"
+msgstr "Ricerca prodotti"
+
+#: php/dp-products.php:774
+msgid "No products found"
+msgstr "Non è stato trovato nessun prodotto"
+
+#: php/dp-products.php:775
+msgid "No products found in Trash"
+msgstr "Nessun prodotto nel cestino"
+
+#: php/dp-products.php:777
+msgid "Products for use with DukaPress"
+msgstr "Prodotti da utilizzare con DukaPress"
+
+#: php/dp-widgets.php:14
+msgid "Displays DukaPress Shopping Cart"
+msgstr "Mostra carrello spesa di DukaPress"
+
+#: php/dp-widgets.php:16
+#: php/dp-widgets.php:39
+msgid "DukaPress Shopping Cart"
+msgstr "DukaPress - Carrello spesa"
+
+#: php/dp-widgets.php:24
+#: php/dp-widgets.php:68
+#: php/dp-widgets.php:380
+msgid "Title:"
+msgstr "Titolo:"
+
+#: php/dp-widgets.php:27
+msgid "To change settings"
+msgstr "Per modificare le impostazioni"
+
+#: php/dp-widgets.php:27
+#: php/dp-widgets.php:71
+msgid "click here"
+msgstr "clicca qui"
+
+#: php/dp-widgets.php:58
+msgid "Displays DukaPress Checkout Link"
+msgstr "Mostra link alla cassa di DukaPress"
+
+#: php/dp-widgets.php:60
+#: php/dp-widgets.php:83
+msgid "DukaPress Checkout"
+msgstr "DukaPress - Cassa"
+
+#: php/dp-widgets.php:71
+msgid "To change checkout url"
+msgstr "Modifica url cassa"
+
+#: php/dp-widgets.php:104
+msgid "Displays Mini DukaPress Shopping Cart"
+msgstr "Mostra il mini carrello della spesa di DukaPress"
+
+#: php/dp-widgets.php:106
+msgid "Mini DukaPress Shopping Cart"
+msgstr "Mini DukaPress - Carrello della spesa"
+
+#: php/dp-widgets.php:138
+#: php/dp-widgets.php:172
+msgid "Your cart is empty."
+msgstr "Il tuo carrello è vuoto."
+
+#: php/dp-widgets.php:142
+msgid "Go to Checkout"
+msgstr "Vai alla cassa"
+
+#: php/dp-widgets.php:186
+msgid "You have added"
+msgstr "Tu hai aggiunto"
+
+#: php/dp-widgets.php:186
+msgid "to the cart"
+msgstr "al carrello"
+
+#: php/dp-widgets.php:190
+msgid "Qty"
+msgstr "Q.tà"
+
+#: php/dp-widgets.php:212
+msgid "Empty your cart"
+msgstr "Svuota il carrello"
+
+#: php/dp-widgets.php:237
+msgid "Product Display"
+msgstr "Vetrina prodotti"
+
+#: php/dp-widgets.php:239
+msgid "DukaPress Product Display"
+msgstr "DukaPress - Vetrina prodotti"
+
+#: php/dp-widgets.php:255
+msgid "Title"
+msgstr "Titolo"
+
+#: php/dp-widgets.php:259
+msgid "Number of products to display"
+msgstr "Numero di prodotti da mostrare"
+
+#: php/dp-widgets.php:263
+msgid "Category ID"
+msgstr "ID categoria"
+
+#: php/dp-widgets.php:263
+msgid "comma separated. e.g."
+msgstr "separa con una virgola. Ad es."
+
+#: php/dp-widgets.php:267
+msgid "Post Type"
+msgstr "Tipo di articolo"
+
+#: php/dp-widgets.php:269
+msgid "Normal Post"
+msgstr "Articolo normale"
+
+#: php/dp-widgets.php:270
+msgid "DukaPress Product Post Type"
+msgstr "DukaPress - Tipo di articolo prodotto"
+
+#: php/dp-widgets.php:274
+msgid "Show Thumbnail"
+msgstr "Mostra miniatura"
+
+#: php/dp-widgets.php:281
+msgid "Thumbnail Width"
+msgstr "Larghezza miniatura"
+
+#: php/dp-widgets.php:285
+msgid "Thumbnail Height"
+msgstr "Altezza miniatura"
+
+#: php/dp-widgets.php:289
+msgid "Show Add to Cart"
+msgstr "Mostra aggiungi al carrello"
+
+#: php/dp-widgets.php:369
+msgid "Search Widget For DukaPress"
+msgstr "DukaPress - Widget di ricerca"
+
+#: php/dp-widgets.php:371
+msgid "DukaPress Search Widget"
+msgstr "DukaPress - Widget ricerca"
+
+#: php/dp-widgets.php:384
+msgid "Select Search Result Page:"
+msgstr "Seleziona pagina risultati della ricerca:"
+
+#~ msgid "http://dukapress.org/"
+#~ msgstr "http://dukapress.org/"
+
+#~ msgid "NetMadeEz and Nickel Pro"
+#~ msgstr "NetMadeEz and Nickel Pro"

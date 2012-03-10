@@ -1,0 +1,97 @@
+
+.clear { clear:both;}
+
+.dpsc_image_section {float: left; width: 395px;}
+
+.dpsc_image_tab {float: left; width: 52px;}
+
+.dpsc_image_tab ul { list-style: none!important;}
+
+.dpsc_main_image {float: right; width: 310px;}
+
+.product_form {text-align: left!important;}
+
+.dpsc_content_container {float: right;}
+
+.dpsc_grid_product {padding: 10px; margin: 0px 10px 10px 0px; float: left; text-align: center; width: 180px; border: 1px solid;}
+
+.dpsc_grid_product .product_form {text-align: center !important;}
+
+.dpsc_grid_product p, .dpsc_grid_product .product_form input  {margin: 0px!important;}
+
+span.was {text-decoration: line-through;}
+
+table.shoppingcart {
+border-color:#CCCCCC;
+border-style:solid;
+border-width:0 0 1px 1px;
+margin:15px 0 15px 13px;
+text-align:center;
+width:100%;
+}
+
+table.shoppingcart {
+border: 1px solid #adadad;
+margin:0 0 20px;
+width:100%;
+}
+
+table.shoppingcart tr {
+text-align:center;
+}
+
+table.shoppingcart tr th {
+border-color:#CCCCCC;
+border-style:solid;
+border-width:1px 1px 0 0;
+font-weight:bold;
+padding:4px;
+text-align:center;
+}
+table.shoppingcart th {
+color:#007BE3;
+font-weight:bold;
+padding:6px 12px;
+text-align:center;
+border: 1px solid #e1e1e1;
+}
+
+table.shoppingcart tr td {
+border-color:#CCCCCC;
+border-style:solid;
+border-width:1px 1px 0 0;
+font-size:8pt !important;
+padding:4px;
+}
+table.shoppingcart td {
+font-size:1em;
+line-height:100%;
+padding:6px;
+text-align:center;
+vertical-align:middle;
+border: 1px solid #e1e1e1;
+}
+
+#dpsc-mini-shopping-cart{overflow:hidden;padding:5px;width:190px;}
+
+.dpsc-mini-shopping-cart.aligncenter a{text-transform: uppercase;font-weight: bold;color: #000;clear: both;display: block}
+.dpsc_error_msg{color:red;font-size:11px;font-weight:bold;letter-spacing:1px;margin-left:5px;}
+
+table.thankyou_detail{
+	width:100%;
+}
+table.thankyou{
+	width:auto; float:right;
+}
+table.thankyou th{
+	width:100px;
+	font-weight:bold
+}
+table.thankyou .thankyou_info{text-align:right; font-weight:normal !important;}
+
+table.order_log_info{
+	width:auto;
+}
+table.order_log_info th{
+	width:200px;
+}

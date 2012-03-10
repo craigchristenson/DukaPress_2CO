@@ -1,0 +1,100 @@
+
+.dukapress-settings {
+    width: 95%;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #dedbd1;
+    margin-bottom: 15px;
+    font-family: Georgia,'Times New Roman',times,serif;
+}
+
+.dukapress-settings a {
+    color: #222;
+    text-decoration: none;
+}
+
+.dukapress-settings a:hover {
+    color: #009;
+    text-decoration: underline;
+}
+
+.tabnav li {
+    display: inline;
+    list-style: none;
+    padding-right: 5px;
+}
+
+.tabnav li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #222;
+    font-weight: bold;
+    padding: 4px 6px;
+    outline: none;
+}
+
+.tabnav li a:hover, .tabnav li a:active, .tabnav li.ui-tabs-selected a {
+    background: #dedbd1;
+    color: #222;
+    text-decoration: none;
+}
+
+.tabdiv {
+    margin-top: 2px;
+    background: #fff;
+    border: 1px solid #dedbd1;
+    padding: 5px;
+}
+
+.tabdiv li {
+    list-style-image: url("star.png");
+    margin-left: 20px;
+}
+
+.ui-tabs-hide {
+    display: none;
+}
+
+div.tabdiv h4,div.tabdiv h5, div.tabdiv p {
+    margin: 0px;
+}
+
+div.tabdiv h4 span {
+    font-size: 10px;
+    color:#00C7EA;
+    margin-left:10px;
+    text-decoration:none;
+}
+
+div#discount_code_layout table, div#dpsc_shipping_location table {
+    border:2px solid #9D9D9D;
+    margin:10px;
+    width:97%;
+}
+
+div#discount_code_layout table th, div#discount_code_layout table td, div#dpsc_shipping_location table th, div#dpsc_shipping_location table td {
+    border:1px solid #9D9D9D;
+    text-align:center;
+}
+
+div#country_list {
+    height:160px;
+    overflow-x:hidden;
+    overflow-y:auto;
+}
+
+.dp_current {cursor: default!important; border: none!important; color: #333333!important;}
+
+.dp_pagination {cursor: pointer;border-bottom-color:#B8D3E2;color:#21759B;border-bottom-style:solid;border-bottom-width:2px;font-weight:bold;margin-right:6px;padding-bottom:0;padding-left:2px;padding-right:2px;padding-top:0;}
+
+.dp_pagination:hover {color: #D54E21; border-bottom-color:#999999;}
+
+
+table.order_log_info{
+	width:auto;
+	table-layout: fixed;
+}
+
+table.order_log_info td{
+	width:200px;
+}
