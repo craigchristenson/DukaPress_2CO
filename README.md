@@ -8,7 +8,7 @@
 
 **DukaPress Instructions:**
 
-1. Copy **dukapress** folder to your **/wp-content/plugins/** directory and follow the instructions at the link below:
+1. Copy **dukapress** folder to your **/wp-content/plugins/** directory and follow the instructions at the following link:
 http://dukapress.org/docs/installation/
 3. In the DukaPress settings click **Payment Options** and **2Checkout**.
 4. Enter your 2Checkout Account Number _(2Checkout Seller ID)_.
@@ -16,6 +16,7 @@ http://dukapress.org/docs/installation/
 6. Click **Save Settings**.
 
 **2Checkout Settings:**
+
 1. Sign in to your 2Checkout account.
 2. Click the **Account** tab and **Site Management** subcategory.
 3. Under **Direct Return** select **Header Redirect**.
