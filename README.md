@@ -1,4 +1,4 @@
-**_For a full waiver of 2Checkout's signup fee, enter promo code: GIT2CO during signup._**
+**_For a discount on 2Checkout’s monthly fees, enter promo code: GIT2CO during signup._**
 
 ***
 
